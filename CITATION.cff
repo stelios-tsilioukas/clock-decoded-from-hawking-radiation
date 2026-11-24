@@ -6,6 +6,14 @@ authors:
     given-names: Stylianos A.
     affiliation: "Department of Physics, University of Thessaly, Lamia, Greece; National Observatory of Athens, Athens, Greece"
 version: "1.0.0"
+doi: 10.5281/zenodo.24511865
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24511865
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.24511866
+    description: "Version 1.0.0"
 license: MIT
 repository-code: "https://github.com/stelios-tsilioukas/clock-decoded-from-hawking-radiation"
 keywords:

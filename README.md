@@ -1,5 +1,7 @@
 # clock-decoded-from-hawking-radiation
 
+[![DOI](https://zenodo.org/badge/1470604111.svg)](https://doi.org/10.5281/zenodo.24511865)
+
 Code and result files for
 
 > S. A. Tsilioukas, *What does a clock decoded from Hawking radiation read? Infalling proper time in quantum Jackiw-Teitelboim gravity* (paper), and the accompanying Letter.
@@ -66,7 +68,21 @@ Boundary time $u=2\pi t/\beta$, coupling $C=2\pi\phi_r/\beta$, $S-S_0\simeq 2\pi
 
 ## Citation
 
-Please cite the paper and this software (see `CITATION.cff`). A Zenodo DOI will be added here on the first release.
+Please cite the paper and this software (see `CITATION.cff`). The software is archived on Zenodo:
+
+- all versions (concept DOI): [10.5281/zenodo.24511865](https://doi.org/10.5281/zenodo.24511865)
+- v1.0.0: [10.5281/zenodo.24511866](https://doi.org/10.5281/zenodo.24511866)
+
+```bibtex
+@misc{Tsilioukas:2026code,
+  author       = {Tsilioukas, Stylianos A.},
+  title        = {clock-decoded-from-hawking-radiation: code for ``What does a clock decoded from Hawking radiation read?''},
+  publisher    = {Zenodo},
+  year         = {2026},
+  doi          = {10.5281/zenodo.24511865},
+  url          = {https://doi.org/10.5281/zenodo.24511865}
+}
+```
 
 ## Licence
 
