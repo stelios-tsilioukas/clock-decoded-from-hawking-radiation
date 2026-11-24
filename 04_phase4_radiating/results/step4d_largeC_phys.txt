@@ -1,0 +1,2 @@
+phys k1=40 (C=37.774, m/m_max=0.12) y_H-1->horizon: classical +1.126951 one-sided +1.127523 decoded +1.128336 | k1*quantum +0.0203 k1*decoder +0.0288 ratio +1.421  N=2800 [216s]
+phys k1=40 (C=37.774, m/m_max=0.12) horizon->0.9 inner: classical +1.501669 one-sided +1.502854 decoded +1.503015 | k1*quantum +0.0316 k1*decoder +0.0043 ratio +0.136  N=2800 [216s]

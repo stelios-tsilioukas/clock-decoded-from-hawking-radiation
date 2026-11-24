@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper and this software."
+title: "clock-decoded-from-hawking-radiation: code for 'What does a clock decoded from Hawking radiation read?'"
+authors:
+  - family-names: Tsilioukas
+    given-names: Stylianos A.
+    affiliation: "Department of Physics, University of Thessaly, Lamia, Greece; National Observatory of Athens, Athens, Greece"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/stelios-tsilioukas/clock-decoded-from-hawking-radiation"
+keywords:
+  - Jackiw-Teitelboim gravity
+  - Hayden-Preskill protocol
+  - black hole interior
+  - Hawking radiation
+  - quantum gravity

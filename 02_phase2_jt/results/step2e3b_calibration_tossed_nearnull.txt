@@ -1,0 +1,4 @@
+k=0.0001 ts=0.1963 kap=0.7788 YS-YH=-0.114 Delta~6.643
+  lam=0.0030 yB-YH-Delta=0.0: in-QES Y-YH=-4.446 (Y-YS=-4.331) bh=+1.309e-02 p=-5.10e+00 S_in-S_out=-8.560e-03 (out p=+3.5e+00) | tau_end=0.00613  8lam/3 tan=0.00160 ratio=3.827  lag (YH-Y)*2kap=6.925 vs log(dS/c)=2.059
+  lam=0.0030 yB-YH-Delta=2.0: in-QES Y-YH=-4.407 (Y-YS=-4.293) bh=+1.293e-02 p=-5.10e+00 S_in-S_out=-8.060e-03 (out p=+1.9e+02) | tau_end=0.00605  8lam/3 tan=0.00160 ratio=3.780  lag (YH-Y)*2kap=6.865 vs log(dS/c)=2.059
+done

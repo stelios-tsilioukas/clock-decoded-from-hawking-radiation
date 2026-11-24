@@ -1,0 +1,68 @@
+--- lambda=0.0000 mu=0.0000
+  yB-YH= 5.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan
+  yB-YH= 5.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan
+  yB-YH= 5.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan
+  yB-YH= 5.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan
+  yB-YH= 6.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan
+  yB-YH= 6.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00009 dnS=+3.073e+09 theta=+nan; tau-tauH=+0.00003 dnS=-2.225e-05 theta=+nan
+  yB-YH= 6.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00006 dnS=-3.246e+09 theta=+nan; tau-tauH=+0.00006 dnS=-6.916e-05 theta=+nan
+  yB-YH= 6.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00004 dnS=-5.679e+09 theta=+nan; tau-tauH=+0.00008 dnS=-1.008e-04 theta=+nan
+  yB-YH= 7.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00003 dnS=+4.436e+09 theta=+nan; tau-tauH=+0.00010 dnS=-1.220e-04 theta=+nan
+  yB-YH= 7.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00002 dnS=-3.424e+09 theta=+nan; tau-tauH=+0.00011 dnS=-1.362e-04 theta=+nan
+  yB-YH= 7.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00001 dnS=+4.976e+09 theta=+nan; tau-tauH=+0.00011 dnS=-1.457e-04 theta=+nan
+  yB-YH= 7.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00001 dnS=-5.135e+09 theta=+nan; tau-tauH=+0.00012 dnS=-1.519e-04 theta=+nan
+  yB-YH= 8.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=+nan; tau-tauH=-0.00001 dnS=+3.040e+09 theta=+nan; tau-tauH=+0.00012 dnS=-1.561e-04 theta=+nan
+--- lambda=0.0030 mu=0.0093
+  yB-YH= 5.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.700
+  yB-YH= 5.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701
+  yB-YH= 5.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701
+  yB-YH= 5.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701
+  yB-YH= 6.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701
+  yB-YH= 6.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00009 dnS=+3.073e+09 theta=-328818573725.641; tau-tauH=+0.00003 dnS=-2.225e-05 theta=+0.002
+  yB-YH= 6.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00006 dnS=-3.246e+09 theta=+347340120872.727; tau-tauH=+0.00006 dnS=-6.916e-05 theta=+0.007
+  yB-YH= 6.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00004 dnS=-5.679e+09 theta=+607688109890.770; tau-tauH=+0.00008 dnS=-1.008e-04 theta=+0.011
+  yB-YH= 7.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00003 dnS=+4.436e+09 theta=-474681233875.703; tau-tauH=+0.00010 dnS=-1.220e-04 theta=+0.013
+  yB-YH= 7.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00002 dnS=-3.424e+09 theta=+366422605373.318; tau-tauH=+0.00011 dnS=-1.362e-04 theta=+0.015
+  yB-YH= 7.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00001 dnS=+4.976e+09 theta=-532465964374.424; tau-tauH=+0.00011 dnS=-1.457e-04 theta=+0.016
+  yB-YH= 7.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00001 dnS=-5.135e+09 theta=+549408618774.929; tau-tauH=+0.00012 dnS=-1.519e-04 theta=+0.016
+  yB-YH= 8.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-166.701; tau-tauH=-0.00001 dnS=+3.040e+09 theta=-325280449445.697; tau-tauH=+0.00012 dnS=-1.561e-04 theta=+0.017
+--- lambda=0.0103 mu=0.0312
+  yB-YH= 5.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010
+  yB-YH= 5.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010
+  yB-YH= 5.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010
+  yB-YH= 5.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010
+  yB-YH= 6.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010
+  yB-YH= 6.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00009 dnS=+3.073e+09 theta=-98645572117.692; tau-tauH=+0.00003 dnS=-2.225e-05 theta=+0.001
+  yB-YH= 6.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00006 dnS=-3.246e+09 theta=+104202036261.818; tau-tauH=+0.00006 dnS=-6.916e-05 theta=+0.002
+  yB-YH= 6.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00004 dnS=-5.679e+09 theta=+182306432967.231; tau-tauH=+0.00008 dnS=-1.008e-04 theta=+0.003
+  yB-YH= 7.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00003 dnS=+4.436e+09 theta=-142404370162.711; tau-tauH=+0.00010 dnS=-1.220e-04 theta=+0.004
+  yB-YH= 7.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00002 dnS=-3.424e+09 theta=+109926781611.995; tau-tauH=+0.00011 dnS=-1.362e-04 theta=+0.004
+  yB-YH= 7.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00001 dnS=+4.976e+09 theta=-159739789312.327; tau-tauH=+0.00011 dnS=-1.457e-04 theta=+0.005
+  yB-YH= 7.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00001 dnS=-5.135e+09 theta=+164822585632.479; tau-tauH=+0.00012 dnS=-1.519e-04 theta=+0.005
+  yB-YH= 8.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-50.010; tau-tauH=-0.00001 dnS=+3.040e+09 theta=-97584134833.709; tau-tauH=+0.00012 dnS=-1.561e-04 theta=+0.005
+--- lambda=0.0330 mu=0.0935
+  yB-YH= 5.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670
+  yB-YH= 5.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670
+  yB-YH= 5.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670
+  yB-YH= 5.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670
+  yB-YH= 6.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670
+  yB-YH= 6.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00009 dnS=+3.073e+09 theta=-32881857372.564; tau-tauH=+0.00003 dnS=-2.225e-05 theta=+0.000
+  yB-YH= 6.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00006 dnS=-3.246e+09 theta=+34734012087.273; tau-tauH=+0.00006 dnS=-6.916e-05 theta=+0.001
+  yB-YH= 6.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00004 dnS=-5.679e+09 theta=+60768810989.077; tau-tauH=+0.00008 dnS=-1.008e-04 theta=+0.001
+  yB-YH= 7.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00003 dnS=+4.436e+09 theta=-47468123387.570; tau-tauH=+0.00010 dnS=-1.220e-04 theta=+0.001
+  yB-YH= 7.393: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00002 dnS=-3.424e+09 theta=+36642260537.332; tau-tauH=+0.00011 dnS=-1.362e-04 theta=+0.001
+  yB-YH= 7.643: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00001 dnS=+4.976e+09 theta=-53246596437.442; tau-tauH=+0.00011 dnS=-1.457e-04 theta=+0.002
+  yB-YH= 7.893: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00001 dnS=-5.135e+09 theta=+54940861877.493; tau-tauH=+0.00012 dnS=-1.519e-04 theta=+0.002
+  yB-YH= 8.143: tau-tauH=-0.78548 dnS=+1.558e+00 theta=-16.670; tau-tauH=-0.00001 dnS=+3.040e+09 theta=-32528044944.570; tau-tauH=+0.00012 dnS=-1.561e-04 theta=+0.002
+==== compare S_gen: stuck-on-C1 vs smooth out-QES (mu-independent as long as 0<=theta<=1)
+yB-YH= 5.643  smooth-out: p=-6.42e-01 S=0.6714820333
+yB-YH= 6.143  smooth-out: p=-2.19e-01 S=0.6713652496
+yB-YH= 6.643  smooth-out: p=+7.01e-01 S=0.6712484687 | stuck: tau-tauH=6.409e-05 S-Ssmooth=+2.001e-05
+yB-YH= 7.143  smooth-out: p=+2.71e+00 S=0.6711316908 | stuck: tau-tauH=9.887e-05 S-Ssmooth=+9.712e-05
+yB-YH= 7.643  smooth-out: p=+7.07e+00 S=0.6710149158 | stuck: tau-tauH=1.148e-04 S-Ssmooth=+2.026e-04
+yB-YH= 8.143  smooth-out: p=+1.66e+01 S=0.6708981437 | stuck: tau-tauH=1.222e-04 S-Ssmooth=+3.206e-04
+yB-YH= 8.643  smooth-out: p=+3.73e+01 S=0.6707813745 | stuck: tau-tauH=1.255e-04 S-Ssmooth=+4.440e-04
+yB-YH= 9.143  smooth-out: p=+8.24e+01 S=0.6706646083 | stuck: tau-tauH=1.271e-04 S-Ssmooth=+5.696e-04
+yB-YH= 9.643  smooth-out: p=+1.81e+02 S=0.6705478450 | stuck: tau-tauH=1.278e-04 S-Ssmooth=+6.959e-04
+yB-YH=10.143  smooth-out: p=+3.95e+02 S=0.6704310846 | stuck: tau-tauH=1.281e-04 S-Ssmooth=+8.223e-04
+yB-YH=10.643  smooth-out: p=+8.61e+02 S=0.6703143271 | stuck: tau-tauH=1.283e-04 S-Ssmooth=+9.485e-04

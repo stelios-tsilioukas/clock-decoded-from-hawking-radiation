@@ -1,0 +1,33 @@
+(a) deep post-Page: C*[ln C_deep - ln C_phys]  (Re: modulus, Im: phase)
+  C=  10 omega=0.1: -0.06955 -0.09560i   /omega: -0.6955 -0.9560i   /omega^2: -6.9553 -9.5602i
+  C=  10 omega=0.2: -0.15547 -0.20205i   /omega: -0.7773 -1.0103i   /omega^2: -3.8867 -5.0513i
+  C=  10 omega=0.4: -0.37316 -0.44408i   /omega: -0.9329 -1.1102i   /omega^2: -2.3322 -2.7755i
+  C=  20 omega=0.1: -0.10597 -0.12668i   /omega: -1.0597 -1.2668i   /omega^2: -10.5973 -12.6676i
+  C=  20 omega=0.2: -0.23744 -0.27016i   /omega: -1.1872 -1.3508i   /omega^2: -5.9361 -6.7540i
+  C=  20 omega=0.4: -0.57331 -0.60375i   /omega: -1.4333 -1.5094i   /omega^2: -3.5832 -3.7734i
+  C=  40 omega=0.1: -0.13696 -0.15175i   /omega: -1.3696 -1.5175i   /omega^2: -13.6960 -15.1750i
+  C=  40 omega=0.2: -0.30798 -0.32631i   /omega: -1.5399 -1.6315i   /omega^2: -7.6996 -8.1577i
+  C=  40 omega=0.4: -0.74919 -0.74062i   /omega: -1.8730 -1.8516i   /omega^2: -4.6825 -4.6289i
+(b) across the Page transition (C = 10 and 2): decoded reading vs physical
+  C=10.0 x= -12.0: c1=0.106  decoded reading 0.5674  physical 0.9385  (dec/phys - 1 = -0.3954);  gap-free decoded phase -0.3579
+  C=10.0 x=  -8.0: c1=0.225  decoded reading 0.5937  physical 0.9385  (dec/phys - 1 = -0.3674);  gap-free decoded phase -0.3149
+  C=10.0 x=  -4.0: c1=0.389  decoded reading 0.6216  physical 0.9385  (dec/phys - 1 = -0.3376);  gap-free decoded phase -0.2689
+  C=10.0 x=  -2.0: c1=0.479  decoded reading 0.6362  physical 0.9385  (dec/phys - 1 = -0.3221);  gap-free decoded phase -0.2450
+  C=10.0 x=  +0.0: c1=0.569  decoded reading 0.6511  physical 0.9385  (dec/phys - 1 = -0.3062);  gap-free decoded phase -0.2208
+  C=10.0 x=  +2.0: c1=0.653  decoded reading 0.6663  physical 0.9385  (dec/phys - 1 = -0.2900);  gap-free decoded phase -0.1967
+  C=10.0 x=  +4.0: c1=0.730  decoded reading 0.6817  physical 0.9385  (dec/phys - 1 = -0.2736);  gap-free decoded phase -0.1726
+  C=10.0 x=  +8.0: c1=0.851  decoded reading 0.7130  physical 0.9385  (dec/phys - 1 = -0.2402);  gap-free decoded phase -0.1266
+  C=10.0 x= +12.0: c1=0.928  decoded reading 0.7439  physical 0.9385  (dec/phys - 1 = -0.2074);  gap-free decoded phase -0.0857
+  C=10.0 x= +20.0: c1=0.988  decoded reading 0.7968  physical 0.9385  (dec/phys - 1 = -0.1510);  gap-free decoded phase -0.0289
+  C=10.0 x=  +inf: c1=1.000  decoded reading 0.8374  physical 0.9385  (dec/phys - 1 = -0.1076);  gap-free decoded phase -0.0000
+  C=2.0 x= -12.0: c1=0.004  decoded reading 0.6886  physical 1.3672  (dec/phys - 1 = -0.4963);  gap-free decoded phase -0.8622
+  C=2.0 x=  -8.0: c1=0.060  decoded reading 0.7089  physical 1.3672  (dec/phys - 1 = -0.4815);  gap-free decoded phase -0.7585
+  C=2.0 x=  -4.0: c1=0.288  decoded reading 0.7779  physical 1.3672  (dec/phys - 1 = -0.4310);  gap-free decoded phase -0.5778
+  C=2.0 x=  -2.0: c1=0.457  decoded reading 0.8234  physical 1.3672  (dec/phys - 1 = -0.3978);  gap-free decoded phase -0.4737
+  C=2.0 x=  +0.0: c1=0.626  decoded reading 0.8747  physical 1.3672  (dec/phys - 1 = -0.3602);  gap-free decoded phase -0.3662
+  C=2.0 x=  +2.0: c1=0.769  decoded reading 0.9312  physical 1.3672  (dec/phys - 1 = -0.3189);  gap-free decoded phase -0.2618
+  C=2.0 x=  +4.0: c1=0.871  decoded reading 0.9911  physical 1.3672  (dec/phys - 1 = -0.2751);  gap-free decoded phase -0.1688
+  C=2.0 x=  +8.0: c1=0.971  decoded reading 1.1066  physical 1.3672  (dec/phys - 1 = -0.1906);  gap-free decoded phase -0.0392
+  C=2.0 x= +12.0: c1=0.996  decoded reading 1.1698  physical 1.3672  (dec/phys - 1 = -0.1444);  gap-free decoded phase +0.0017
+  C=2.0 x= +20.0: c1=1.000  decoded reading 1.1707  physical 1.3672  (dec/phys - 1 = -0.1437);  gap-free decoded phase -0.0002
+  C=2.0 x=  +inf: c1=1.000  decoded reading 1.1709  physical 1.3672  (dec/phys - 1 = -0.1436);  gap-free decoded phase -0.0000

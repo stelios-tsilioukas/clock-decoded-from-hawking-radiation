@@ -1,0 +1,8 @@
+C=  10 Delta=0.5: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75:  -1.760   -0.806   +0.000   +0.806   +1.760   | 4 Delta log tan(tau_s/2) at 0.25 pi: -1.763
+C=  10 Delta=1.0: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75:  -3.471   -1.588   +0.000   +1.588   +3.471   | 4 Delta log tan(tau_s/2) at 0.25 pi: -3.525
+C=  10 Delta=2.0: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75:  -6.756   -3.088   +0.000   +3.088   +6.756   | 4 Delta log tan(tau_s/2) at 0.25 pi: -7.051
+C=  10 Delta=4.0: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75: -12.824   -5.849   +0.000   +5.849  +12.824   | 4 Delta log tan(tau_s/2) at 0.25 pi: -14.102
+C=  40 Delta=0.5: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75:  -1.762   -0.806   +0.000   +0.806   +1.762   | 4 Delta log tan(tau_s/2) at 0.25 pi: -1.763
+C=  40 Delta=1.0: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75:  -3.512   -1.606   +0.000   +1.606   +3.512   | 4 Delta log tan(tau_s/2) at 0.25 pi: -3.525
+C=  40 Delta=2.0: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75:  -6.974   -3.190   +0.000   +3.190   +6.974   | 4 Delta log tan(tau_s/2) at 0.25 pi: -7.051
+C=  40 Delta=4.0: log(Z2_thread/Z2_cap) at tau_s/pi = 0.25..0.75: -13.754   -6.288   +0.000   +6.288  +13.754   | 4 Delta log tan(tau_s/2) at 0.25 pi: -14.102

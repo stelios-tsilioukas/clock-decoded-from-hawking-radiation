@@ -1,0 +1,17 @@
+C=  20 De=1.00 eps_e=0.0125 horizon  : phys -0.86636 (|V| 0.99177) | dec deep -0.86659 (|V| 0.99999) C*(dec-phys) -0.0046 | 3h(no emission) deep -0.86880 | x=0: -0.8596 x=12: -0.8605 x=20: -0.8610  [89s]
+C=  20 De=1.00 eps_e=0.0125 0.9 inner: phys +0.79089 (|V| 0.99185) | dec deep +0.79109 (|V| 0.99999) C*(dec-phys) +0.0040 | 3h(no emission) deep +0.79317 | x=0: +0.7846 x=12: +0.7854 x=20: +0.7859  [173s]
+Traceback (most recent call last):
+  File "/mnt/attach/outputs/icp/04_phase4_radiating/code/step4b_decorated.py", line 101, in <module>
+    res = run(C, Des, ees, xs)
+  File "/mnt/attach/outputs/icp/04_phase4_radiating/code/step4b_decorated.py", line 82, in run
+    filt = {x: S.filter_e(x) for x in xs}
+               ~~~~~~~~~~^^^
+  File "/mnt/attach/outputs/icp/04_phase4_radiating/code/step4b_decorated.py", line 67, in filter_e
+    R = ExactResolvent(self.lrho, [self.lPh, self.lPh], self.Sbh_h + x)
+  File "/mnt/user-data/outputs/icp/03_phase3_quantum/code/step3i_resolvent.py", line 51, in __init__
+    self.M = M; self._solve()
+                ~~~~~~~~~~~^^
+  File "/mnt/user-data/outputs/icp/03_phase3_quantum/code/step3i_resolvent.py", line 86, in _solve
+    if nsub > 4096: raise RuntimeError("continuation failed")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: continuation failed

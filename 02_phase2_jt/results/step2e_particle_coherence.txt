@@ -1,0 +1,47 @@
+{
+ "ts=0.3927": {
+  "PP": 0.0,
+  "unit_normal_err": 2.511324481702104e-13,
+  "junction_err": 2.4101609596982598e-11,
+  "eps_minus_dtau_dy": -2.042810365310288e-13,
+  "m=0.01: (Eout-Ein) - m(eps_out+eps_in)/2": 0.0,
+  "m=0.01: (Eout-Ein)/(m eps) - 1": 0.00103553390583766,
+  "m=0.1: (Eout-Ein) - m(eps_out+eps_in)/2": -1.478261957288396e-13,
+  "m=0.1: (Eout-Ein)/(m eps) - 1": 0.010355339058188084,
+  "m=0.5: (Eout-Ein) - m(eps_out+eps_in)/2": -8.924416761146858e-12,
+  "m=0.5: (Eout-Ein)/(m eps) - 1": 0.0517766952952734
+ },
+ "ts=0.7854": {
+  "PP": 0.0,
+  "unit_normal_err": 6.661338147750939e-13,
+  "junction_err": 3.666400516522117e-11,
+  "eps_minus_dtau_dy": -4.440892098500626e-16,
+  "m=0.01: (Eout-Ein) - m(eps_out+eps_in)/2": -6.963180032570904e-15,
+  "m=0.01: (Eout-Ein)/(m eps) - 1": 0.0024999999997064037,
+  "m=0.1: (Eout-Ein) - m(eps_out+eps_in)/2": 0.0,
+  "m=0.1: (Eout-Ein)/(m eps) - 1": 0.024999999999636202,
+  "m=0.5: (Eout-Ein) - m(eps_out+eps_in)/2": -7.275957614183426e-12,
+  "m=0.5: (Eout-Ein)/(m eps) - 1": 0.125
+ },
+ "ts=1.1781": {
+  "PP": 2.3283064365386963e-10,
+  "unit_normal_err": 4.4986236957811343e-13,
+  "junction_err": 7.435119186993688e-11,
+  "eps_minus_dtau_dy": 2.275957200481571e-14,
+  "m=0.01: (Eout-Ein) - m(eps_out+eps_in)/2": -4.263950303950992e-15,
+  "m=0.01: (Eout-Ein)/(m eps) - 1": 0.006035533906922019,
+  "m=0.1: (Eout-Ein) - m(eps_out+eps_in)/2": 2.0462798122622416e-13,
+  "m=0.1: (Eout-Ein)/(m eps) - 1": 0.060355339078757675,
+  "m=0.5: (Eout-Ein) - m(eps_out+eps_in)/2": 5.5706550483591855e-12,
+  "m=0.5: (Eout-Ein)/(m eps) - 1": 0.30177669532352613
+ }
+}
+S-S0=   100 w=1.0: -ln|c|=0.05323 vs G_rem+G_deph=0.04955 | G_rem=0.04935 (closed 0.04935, -lnBC 0.05268) G_deph=0.00020 (closed 0.00020) | phase +0.00811 vs Phi_sg +0.00628 (closed +0.00628)
+S-S0=   100 w=3.0: -ln|c|=0.45963 vs G_rem+G_deph=0.44593 | G_rem=0.44413 (closed 0.44413, -lnBC 0.45171) G_deph=0.00180 (closed 0.00180) | phase +0.09613 vs Phi_sg +0.05655 (closed +0.05655)
+S-S0=   100 w=6.0: -ln|c|=1.65429 vs G_rem+G_deph=1.78373 | G_rem=1.77653 (closed 1.77653, -lnBC 1.56712) G_deph=0.00720 (closed 0.00720) | phase +0.57545 vs Phi_sg +0.22619 (closed +0.22619)
+S-S0=   400 w=1.0: -ln|c|=0.01261 vs G_rem+G_deph=0.01239 | G_rem=0.01234 (closed 0.01234, -lnBC 0.01255) G_deph=0.00005 (closed 0.00005) | phase +0.00166 vs Phi_sg +0.00157 (closed +0.00157)
+S-S0=   400 w=3.0: -ln|c|=0.11320 vs G_rem+G_deph=0.11148 | G_rem=0.11103 (closed 0.11103, -lnBC 0.11262) G_deph=0.00045 (closed 0.00045) | phase +0.01600 vs Phi_sg +0.01414 (closed +0.01414)
+S-S0=   400 w=6.0: -ln|c|=0.44867 vs G_rem+G_deph=0.44593 | G_rem=0.44413 (closed 0.44413, -lnBC 0.44599) G_deph=0.00180 (closed 0.00180) | phase +0.07071 vs Phi_sg +0.05655 (closed +0.05655)
+S-S0=  1600 w=1.0: -ln|c|=0.00311 vs G_rem+G_deph=0.00310 | G_rem=0.00308 (closed 0.00308, -lnBC 0.00310) G_deph=0.00001 (closed 0.00001) | phase +0.00040 vs Phi_sg +0.00039 (closed +0.00039)
+S-S0=  1600 w=3.0: -ln|c|=0.02799 vs G_rem+G_deph=0.02787 | G_rem=0.02776 (closed 0.02776, -lnBC 0.02787) G_deph=0.00011 (closed 0.00011) | phase +0.00364 vs Phi_sg +0.00353 (closed +0.00353)
+S-S0=  1600 w=6.0: -ln|c|=0.11192 vs G_rem+G_deph=0.11148 | G_rem=0.11103 (closed 0.11103, -lnBC 0.11143) G_deph=0.00045 (closed 0.00045) | phase +0.01494 vs Phi_sg +0.01414 (closed +0.01414)

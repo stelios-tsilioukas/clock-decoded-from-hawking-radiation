@@ -1,0 +1,24 @@
+ts=0.785 horizon->phi0 eps=0.0 (fit resid 2.8e-15): D=-0.0000-0.0000i  w=+0.0000-0.0389i  h=+0.0000+0.0000i  DD=+0.0000+0.0000i  Dw=+0.0000+0.0986i  Dh=+0.0000+0.0000i  ww=-0.0381+0.0169i  wh=-0.1255-0.1745i  hh=-0.0880-0.1464i
+ts=0.785 horizon->phi0 eps=0.05 (fit resid 2.5e-15): D=-0.0000-0.0000i  w=+0.0000-0.0389i  h=+0.0000+0.0005i  DD=+0.0000+0.0000i  Dw=+0.0000+0.0986i  Dh=-0.0000+0.0033i  ww=-0.0318+0.0256i  wh=-0.1087-0.1438i  hh=-0.0776-0.1280i
+   3a worldline: Var_K=0.0763 commutator=-0.0337 mean shift=+0.0389
+   3d backreaction prediction for Im(Dw): -kappa1'*d(Dtau)/dkappa = +0.0986
+ts=0.785 y_H-2->horizon eps=0.0 (fit resid 2.2e-14): D=-0.0000-0.0000i  w=-0.0000-0.1917i  h=+0.0000-0.0000i  DD=+0.0000+0.0000i  Dw=-0.0000+0.4646i  Dh=+0.0000+0.0000i  ww=-0.2301+0.2520i  wh=-1.2574-0.5337i  hh=-1.1018-0.7061i
+ts=0.785 y_H-2->horizon eps=0.05 (fit resid 2.1e-14): D=-0.0000-0.0000i  w=+0.0000-0.1917i  h=+0.0000+0.0024i  DD=+0.0000+0.0000i  Dw=+0.0000+0.4646i  Dh=+0.0000+0.0151i  ww=-0.2104+0.2566i  wh=-1.2023-0.4741i  hh=-1.0652-0.6684i
+   3a worldline: Var_K=0.4602 commutator=-0.5039 mean shift=+0.1917
+   3d backreaction prediction for Im(Dw): -kappa1'*d(Dtau)/dkappa = +0.4646
+ts=0.785 horizon->0.9inner eps=0.0 (fit resid 5.6e-15): D=-0.0000-0.0000i  w=+0.0000-0.0739i  h=+0.0000+0.0000i  DD=+0.0000+0.0000i  Dw=-0.0000+0.1873i  Dh=+0.0000+0.0000i  ww=-0.0988+0.1006i  wh=-0.3618-0.1449i  hh=-0.2654-0.1595i
+ts=0.785 horizon->0.9inner eps=0.05 (fit resid 5.0e-15): D=+0.0000+0.0000i  w=-0.0000-0.0740i  h=+0.0000+0.0010i  DD=+0.0000+0.0000i  Dw=-0.0000+0.1873i  Dh=+0.0000+0.0062i  ww=-0.0817+0.1073i  wh=-0.3142-0.1111i  hh=-0.2348-0.1390i
+   3a worldline: Var_K=0.1976 commutator=-0.2011 mean shift=+0.0739
+   3d backreaction prediction for Im(Dw): -kappa1'*d(Dtau)/dkappa = +0.1873
+ts=1.178 horizon->phi0 eps=0.0 (fit resid 7.6e-15): D=-0.0000-0.0000i  w=-0.0000-0.0848i  h=+0.0000+0.0000i  DD=+0.0000+0.0000i  Dw=+0.0000+0.2207i  Dh=+0.0000+0.0000i  ww=-0.1186+0.0959i  wh=-0.4631-0.2886i  hh=-0.3585-0.3087i
+ts=1.178 horizon->phi0 eps=0.05 (fit resid 7.5e-15): D=+0.0000-0.0000i  w=+0.0000-0.0848i  h=-0.0000+0.0013i  DD=+0.0000+0.0000i  Dw=-0.0000+0.2207i  Dh=+0.0000+0.0051i  ww=-0.1062+0.1034i  wh=-0.4275-0.2525i  hh=-0.3348-0.2856i
+   3a worldline: Var_K=0.2372 commutator=-0.1918 mean shift=+0.0848
+   3d backreaction prediction for Im(Dw): -kappa1'*d(Dtau)/dkappa = +0.2207
+ts=1.178 y_H-2->horizon eps=0.0 (fit resid 1.8e-14): D=+0.0000-0.0000i  w=-0.0000-0.1356i  h=-0.0000+0.0000i  DD=+0.0000+0.0000i  Dw=+0.0000+0.3137i  Dh=+0.0000+0.0000i  ww=-0.1237+0.0670i  wh=-0.6644-0.7336i  hh=-0.6878-0.9219i
+ts=1.178 y_H-2->horizon eps=0.05 (fit resid 1.8e-14): D=-0.0000-0.0000i  w=+0.0000-0.1356i  h=+0.0000+0.0019i  DD=+0.0000+0.0000i  Dw=+0.0000+0.3137i  Dh=+0.0000+0.0068i  ww=-0.1181+0.0727i  wh=-0.6521-0.6970i  hh=-0.6791-0.8992i
+   3a worldline: Var_K=0.2473 commutator=-0.1339 mean shift=+0.1356
+   3d backreaction prediction for Im(Dw): -kappa1'*d(Dtau)/dkappa = +0.3137
+ts=1.178 horizon->0.9inner eps=0.0 (fit resid 1.5e-14): D=-0.0000-0.0000i  w=+0.0000-0.1615i  h=+0.0000-0.0000i  DD=+0.0000-0.0000i  Dw=-0.0000+0.4206i  Dh=+0.0000-0.0000i  ww=-0.1223+0.4509i  wh=-0.8763+0.3420i  hh=-0.7963+0.0550i
+ts=1.178 horizon->0.9inner eps=0.05 (fit resid 1.4e-14): D=-0.0000+0.0000i  w=+0.0000-0.1615i  h=+0.0000+0.0024i  DD=+0.0000-0.0000i  Dw=+0.0000+0.4206i  Dh=-0.0000+0.0097i  ww=-0.1039+0.4437i  wh=-0.8100+0.3484i  hh=-0.7465+0.0577i
+   3a worldline: Var_K=0.2446 commutator=-0.9019 mean shift=+0.1615
+   3d backreaction prediction for Im(Dw): -kappa1'*d(Dtau)/dkappa = +0.4206

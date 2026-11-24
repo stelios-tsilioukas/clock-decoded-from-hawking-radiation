@@ -1,0 +1,102 @@
+C=10.0: elements for 4 labels in 167s (N=2600)
+C=10.0 y_H-1     x= -12.0: reading phys -1.81203 | dec canonical -1.30890 exact -1.30662 (exact-phys +0.50541) | |V| phys 0.99005 canon 0.99981 exact 0.99982
+C=10.0 y_H-1     x=  -8.0: reading phys -1.81203 | dec canonical -1.39909 exact -1.39555 (exact-phys +0.41648) | |V| phys 0.99005 canon 0.99970 exact 0.99971
+C=10.0 y_H-1     x=  -4.0: reading phys -1.81203 | dec canonical -1.49248 exact -1.48767 (exact-phys +0.32436) | |V| phys 0.99005 canon 0.99952 exact 0.99953
+C=10.0 y_H-1     x=  -2.0: reading phys -1.81203 | dec canonical -1.53908 exact -1.53373 (exact-phys +0.27831) | |V| phys 0.99005 canon 0.99939 exact 0.99940
+C=10.0 y_H-1     x=  +0.0: reading phys -1.81203 | dec canonical -1.58461 exact -1.57886 (exact-phys +0.23317) | |V| phys 0.99005 canon 0.99922 exact 0.99924
+C=10.0 y_H-1     x=  +2.0: reading phys -1.81203 | dec canonical -1.62817 exact -1.62219 (exact-phys +0.18984) | |V| phys 0.99005 canon 0.99902 exact 0.99905
+C=10.0 y_H-1     x=  +4.0: reading phys -1.81203 | dec canonical -1.66872 exact -1.66275 (exact-phys +0.14928) | |V| phys 0.99005 canon 0.99877 exact 0.99881
+C=10.0 y_H-1     x=  +8.0: reading phys -1.81203 | dec canonical -1.73674 exact -1.73158 (exact-phys +0.08046) | |V| phys 0.99005 canon 0.99818 exact 0.99824
+C=10.0 y_H-1     x= +12.0: reading phys -1.81203 | dec canonical -1.78260 exact -1.77909 (exact-phys +0.03295) | |V| phys 0.99005 canon 0.99753 exact 0.99759
+C=10.0 y_H-1     x= +20.0: reading phys -1.81203 | dec canonical -1.81460 exact -1.81404 (exact-phys -0.00201) | |V| phys 0.99005 canon 0.99667 exact 0.99670
+C=10.0 y_H-1     x= +30.0: reading phys -1.81203 | dec canonical -1.81585 exact -1.81585 (exact-phys -0.00382) | |V| phys 0.99005 canon 0.99654 exact 0.99654
+C=10.0 y_H-1     x=  +inf: reading phys -1.81203 | dec canonical -1.81600 exact -1.81600 (exact-phys -0.00396) | |V| phys 0.99005 canon 0.99652 exact 0.99652
+C=10.0 horizon   x= -12.0: reading phys -0.93874 | dec canonical -0.62133 exact -0.62048 (exact-phys +0.31826) | |V| phys 0.99170 canon 0.99993 exact 0.99993
+C=10.0 horizon   x=  -8.0: reading phys -0.93874 | dec canonical -0.65539 exact -0.65403 (exact-phys +0.28471) | |V| phys 0.99170 canon 0.99990 exact 0.99990
+C=10.0 horizon   x=  -4.0: reading phys -0.93874 | dec canonical -0.69212 exact -0.69019 (exact-phys +0.24855) | |V| phys 0.99170 canon 0.99984 exact 0.99984
+C=10.0 horizon   x=  -2.0: reading phys -0.93874 | dec canonical -0.71128 exact -0.70907 (exact-phys +0.22967) | |V| phys 0.99170 canon 0.99979 exact 0.99980
+C=10.0 horizon   x=  +0.0: reading phys -0.93874 | dec canonical -0.73080 exact -0.72831 (exact-phys +0.21043) | |V| phys 0.99170 canon 0.99974 exact 0.99974
+C=10.0 horizon   x=  +2.0: reading phys -0.93874 | dec canonical -0.75050 exact -0.74777 (exact-phys +0.19097) | |V| phys 0.99170 canon 0.99967 exact 0.99968
+C=10.0 horizon   x=  +4.0: reading phys -0.93874 | dec canonical -0.77019 exact -0.76726 (exact-phys +0.17149) | |V| phys 0.99170 canon 0.99958 exact 0.99960
+C=10.0 horizon   x=  +8.0: reading phys -0.93874 | dec canonical -0.80855 exact -0.80536 (exact-phys +0.13338) | |V| phys 0.99170 canon 0.99936 exact 0.99938
+C=10.0 horizon   x= +12.0: reading phys -0.93874 | dec canonical -0.84380 exact -0.84065 (exact-phys +0.09809) | |V| phys 0.99170 canon 0.99905 exact 0.99908
+C=10.0 horizon   x= +20.0: reading phys -0.93874 | dec canonical -0.89820 exact -0.89559 (exact-phys +0.04315) | |V| phys 0.99170 canon 0.99820 exact 0.99826
+C=10.0 horizon   x= +30.0: reading phys -0.93874 | dec canonical -0.93073 exact -0.92972 (exact-phys +0.00902) | |V| phys 0.99170 canon 0.99709 exact 0.99714
+C=10.0 horizon   x=  +inf: reading phys -0.93874 | dec canonical -0.94216 exact -0.94216 (exact-phys -0.00342) | |V| phys 0.99170 canon 0.99563 exact 0.99563
+C=10.0 phi=0     x= -12.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99995 exact 0.99995
+C=10.0 phi=0     x=  -8.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99992 exact 0.99992
+C=10.0 phi=0     x=  -4.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99988 exact 0.99988
+C=10.0 phi=0     x=  -2.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99985 exact 0.99985
+C=10.0 phi=0     x=  +0.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99981 exact 0.99981
+C=10.0 phi=0     x=  +2.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99976 exact 0.99976
+C=10.0 phi=0     x=  +4.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99969 exact 0.99970
+C=10.0 phi=0     x=  +8.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99953 exact 0.99955
+C=10.0 phi=0     x= +12.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99931 exact 0.99933
+C=10.0 phi=0     x= +20.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99866 exact 0.99871
+C=10.0 phi=0     x= +30.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99769 exact 0.99774
+C=10.0 phi=0     x=  +inf: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99229 canon 0.99545 exact 0.99545
+C=10.0 0.9 inner x= -12.0: reading phys +0.85955 | dec canonical +0.56722 exact +0.56646 (exact-phys -0.29308) | |V| phys 0.99179 canon 0.99994 exact 0.99994
+C=10.0 0.9 inner x=  -8.0: reading phys +0.85955 | dec canonical +0.59794 exact +0.59672 (exact-phys -0.26282) | |V| phys 0.99179 canon 0.99990 exact 0.99990
+C=10.0 0.9 inner x=  -4.0: reading phys +0.85955 | dec canonical +0.63110 exact +0.62936 (exact-phys -0.23018) | |V| phys 0.99179 canon 0.99984 exact 0.99985
+C=10.0 0.9 inner x=  -2.0: reading phys +0.85955 | dec canonical +0.64841 exact +0.64641 (exact-phys -0.21314) | |V| phys 0.99179 canon 0.99980 exact 0.99981
+C=10.0 0.9 inner x=  +0.0: reading phys +0.85955 | dec canonical +0.66605 exact +0.66380 (exact-phys -0.19574) | |V| phys 0.99179 canon 0.99975 exact 0.99976
+C=10.0 0.9 inner x=  +2.0: reading phys +0.85955 | dec canonical +0.68388 exact +0.68141 (exact-phys -0.17814) | |V| phys 0.99179 canon 0.99969 exact 0.99969
+C=10.0 0.9 inner x=  +4.0: reading phys +0.85955 | dec canonical +0.70171 exact +0.69905 (exact-phys -0.16049) | |V| phys 0.99179 canon 0.99961 exact 0.99962
+C=10.0 0.9 inner x=  +8.0: reading phys +0.85955 | dec canonical +0.73654 exact +0.73365 (exact-phys -0.12590) | |V| phys 0.99179 canon 0.99939 exact 0.99941
+C=10.0 0.9 inner x= +12.0: reading phys +0.85955 | dec canonical +0.76871 exact +0.76583 (exact-phys -0.09372) | |V| phys 0.99179 canon 0.99910 exact 0.99913
+C=10.0 0.9 inner x= +20.0: reading phys +0.85955 | dec canonical +0.81906 exact +0.81661 (exact-phys -0.04293) | |V| phys 0.99179 canon 0.99829 exact 0.99834
+C=10.0 0.9 inner x= +30.0: reading phys +0.85955 | dec canonical +0.85042 exact +0.84941 (exact-phys -0.01014) | |V| phys 0.99179 canon 0.99719 exact 0.99724
+C=10.0 0.9 inner x=  +inf: reading phys +0.85955 | dec canonical +0.86270 exact +0.86270 (exact-phys +0.00316) | |V| phys 0.99179 canon 0.99559 exact 0.99559
+C=10.0 c1 (exact | canonical): x=-12: 0.1049|0.1074  x=-8: 0.2208|0.2265  x=-4: 0.3798|0.3891  x=-2: 0.4678|0.4786  x=0: 0.5560|0.5676  x=2: 0.6402|0.6520  x=4: 0.7170|0.7284  x=8: 0.8402|0.8492  x=12: 0.9201|0.9260  x=20: 0.9860|0.9877  x=30: 0.9992|0.9993  x=inf: 1.0000|1.0000
+C=10.0 max |G(M=8192) - G(M=4096)| at x=0: 2.84e-14
+C=2.0: elements for 4 labels in 25s (N=1468)
+C=2.0 y_H-1     x= -12.0: reading phys -1.64068 | dec canonical -0.94595 exact -0.94553 (exact-phys +0.69515) | |V| phys 0.99035 canon 0.99966 exact 0.99966
+C=2.0 y_H-1     x=  -8.0: reading phys -1.64068 | dec canonical -1.04842 exact -1.04403 (exact-phys +0.59665) | |V| phys 0.99035 canon 0.99960 exact 0.99960
+C=2.0 y_H-1     x=  -4.0: reading phys -1.64068 | dec canonical -1.22340 exact -1.21185 (exact-phys +0.42883) | |V| phys 0.99035 canon 0.99925 exact 0.99928
+C=2.0 y_H-1     x=  -2.0: reading phys -1.64068 | dec canonical -1.32341 exact -1.30760 (exact-phys +0.33308) | |V| phys 0.99035 canon 0.99887 exact 0.99893
+C=2.0 y_H-1     x=  +0.0: reading phys -1.64068 | dec canonical -1.42009 exact -1.40333 (exact-phys +0.23735) | |V| phys 0.99035 canon 0.99828 exact 0.99839
+C=2.0 y_H-1     x=  +2.0: reading phys -1.64068 | dec canonical -1.50863 exact -1.49107 (exact-phys +0.14961) | |V| phys 0.99035 canon 0.99741 exact 0.99760
+C=2.0 y_H-1     x=  +4.0: reading phys -1.64068 | dec canonical -1.57720 exact -1.56195 (exact-phys +0.07874) | |V| phys 0.99035 canon 0.99629 exact 0.99657
+C=2.0 y_H-1     x=  +8.0: reading phys -1.64068 | dec canonical -1.63774 exact -1.63348 (exact-phys +0.00720) | |V| phys 0.99035 canon 0.99420 exact 0.99444
+C=2.0 y_H-1     x= +12.0: reading phys -1.64068 | dec canonical -1.64168 exact -1.64179 (exact-phys -0.00111) | |V| phys 0.99035 canon 0.99338 exact 0.99346
+C=2.0 y_H-1     x= +20.0: reading phys -1.64068 | dec canonical -1.64165 exact -1.64163 (exact-phys -0.00095) | |V| phys 0.99035 canon 0.99307 exact 0.99309
+C=2.0 y_H-1     x= +30.0: reading phys -1.64068 | dec canonical -1.64171 exact -1.64171 (exact-phys -0.00103) | |V| phys 0.99035 canon 0.99295 exact 0.99296
+C=2.0 y_H-1     x=  +inf: reading phys -1.64068 | dec canonical -1.64172 exact -1.64172 (exact-phys -0.00104) | |V| phys 0.99035 canon 0.99290 exact 0.99290
+C=2.0 horizon   x= -12.0: reading phys -1.36031 | dec canonical -0.76609 exact -0.76584 (exact-phys +0.59446) | |V| phys 0.99108 canon 0.99982 exact 0.99982
+C=2.0 horizon   x=  -8.0: reading phys -1.36031 | dec canonical -0.82828 exact -0.82559 (exact-phys +0.53472) | |V| phys 0.99108 canon 0.99979 exact 0.99979
+C=2.0 horizon   x=  -4.0: reading phys -1.36031 | dec canonical -0.93747 exact -0.93016 (exact-phys +0.43014) | |V| phys 0.99108 canon 0.99963 exact 0.99965
+C=2.0 horizon   x=  -2.0: reading phys -1.36031 | dec canonical -1.00258 exact -0.99222 (exact-phys +0.36809) | |V| phys 0.99108 canon 0.99947 exact 0.99950
+C=2.0 horizon   x=  +0.0: reading phys -1.36031 | dec canonical -1.06941 exact -1.05770 (exact-phys +0.30261) | |V| phys 0.99108 canon 0.99922 exact 0.99926
+C=2.0 horizon   x=  +2.0: reading phys -1.36031 | dec canonical -1.13755 exact -1.12370 (exact-phys +0.23660) | |V| phys 0.99108 canon 0.99883 exact 0.99891
+C=2.0 horizon   x=  +4.0: reading phys -1.36031 | dec canonical -1.20158 exact -1.18665 (exact-phys +0.17366) | |V| phys 0.99108 canon 0.99829 exact 0.99842
+C=2.0 horizon   x=  +8.0: reading phys -1.36031 | dec canonical -1.29901 exact -1.28799 (exact-phys +0.07231) | |V| phys 0.99108 canon 0.99676 exact 0.99699
+C=2.0 horizon   x= +12.0: reading phys -1.36031 | dec canonical -1.34700 exact -1.34178 (exact-phys +0.01853) | |V| phys 0.99108 canon 0.99508 exact 0.99533
+C=2.0 horizon   x= +20.0: reading phys -1.36031 | dec canonical -1.36081 exact -1.36064 (exact-phys -0.00033) | |V| phys 0.99108 canon 0.99343 exact 0.99351
+C=2.0 horizon   x= +30.0: reading phys -1.36031 | dec canonical -1.36165 exact -1.36162 (exact-phys -0.00132) | |V| phys 0.99108 canon 0.99290 exact 0.99293
+C=2.0 horizon   x=  +inf: reading phys -1.36031 | dec canonical -1.36182 exact -1.36182 (exact-phys -0.00151) | |V| phys 0.99108 canon 0.99265 exact 0.99265
+C=2.0 phi=0     x= -12.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99992 exact 0.99992
+C=2.0 phi=0     x=  -8.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99991 exact 0.99991
+C=2.0 phi=0     x=  -4.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99984 exact 0.99985
+C=2.0 phi=0     x=  -2.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99978 exact 0.99979
+C=2.0 phi=0     x=  +0.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99968 exact 0.99970
+C=2.0 phi=0     x=  +2.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99954 exact 0.99957
+C=2.0 phi=0     x=  +4.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99933 exact 0.99938
+C=2.0 phi=0     x=  +8.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99874 exact 0.99882
+C=2.0 phi=0     x= +12.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99787 exact 0.99801
+C=2.0 phi=0     x= +20.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99594 exact 0.99610
+C=2.0 phi=0     x= +30.0: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99434 exact 0.99443
+C=2.0 phi=0     x=  +inf: reading phys +0.00000 | dec canonical +0.00000 exact +0.00000 (exact-phys +0.00000) | |V| phys 0.99249 canon 0.99322 exact 0.99322
+C=2.0 0.9 inner x= -12.0: reading phys +1.28557 | dec canonical +0.72212 exact +0.72190 (exact-phys -0.56367) | |V| phys 0.99124 canon 0.99984 exact 0.99984
+C=2.0 0.9 inner x=  -8.0: reading phys +1.28557 | dec canonical +0.77818 exact +0.77575 (exact-phys -0.50982) | |V| phys 0.99124 canon 0.99981 exact 0.99981
+C=2.0 0.9 inner x=  -4.0: reading phys +1.28557 | dec canonical +0.87687 exact +0.87027 (exact-phys -0.41531) | |V| phys 0.99124 canon 0.99967 exact 0.99969
+C=2.0 0.9 inner x=  -2.0: reading phys +1.28557 | dec canonical +0.93594 exact +0.92654 (exact-phys -0.35903) | |V| phys 0.99124 canon 0.99953 exact 0.99955
+C=2.0 0.9 inner x=  +0.0: reading phys +1.28557 | dec canonical +0.99685 exact +0.98618 (exact-phys -0.29939) | |V| phys 0.99124 canon 0.99931 exact 0.99935
+C=2.0 0.9 inner x=  +2.0: reading phys +1.28557 | dec canonical +1.05948 exact +1.04674 (exact-phys -0.23883) | |V| phys 0.99124 canon 0.99897 exact 0.99904
+C=2.0 0.9 inner x=  +4.0: reading phys +1.28557 | dec canonical +1.11916 exact +1.10520 (exact-phys -0.18037) | |V| phys 0.99124 canon 0.99850 exact 0.99861
+C=2.0 0.9 inner x=  +8.0: reading phys +1.28557 | dec canonical +1.21364 exact +1.20267 (exact-phys -0.08291) | |V| phys 0.99124 canon 0.99714 exact 0.99734
+C=2.0 0.9 inner x= +12.0: reading phys +1.28557 | dec canonical +1.26564 exact +1.25960 (exact-phys -0.02597) | |V| phys 0.99124 canon 0.99552 exact 0.99577
+C=2.0 0.9 inner x= +20.0: reading phys +1.28557 | dec canonical +1.28557 exact +1.28522 (exact-phys -0.00035) | |V| phys 0.99124 canon 0.99364 exact 0.99374
+C=2.0 0.9 inner x= +30.0: reading phys +1.28557 | dec canonical +1.28681 exact +1.28677 (exact-phys +0.00119) | |V| phys 0.99124 canon 0.99299 exact 0.99302
+C=2.0 0.9 inner x=  +inf: reading phys +1.28557 | dec canonical +1.28705 exact +1.28705 (exact-phys +0.00148) | |V| phys 0.99124 canon 0.99267 exact 0.99267
+C=2.0 c1 (exact | canonical): x=-12: 0.0036|0.0037  x=-8: 0.0575|0.0614  x=-4: 0.2681|0.2878  x=-2: 0.4275|0.4567  x=0: 0.5921|0.6226  x=2: 0.7366|0.7660  x=4: 0.8462|0.8701  x=8: 0.9611|0.9702  x=12: 0.9934|0.9956  x=20: 0.9999|1.0000  x=30: 1.0000|1.0000  x=inf: 1.0000|1.0000
+C=2.0 max |G(M=8192) - G(M=4096)| at x=0: 1.78e-14

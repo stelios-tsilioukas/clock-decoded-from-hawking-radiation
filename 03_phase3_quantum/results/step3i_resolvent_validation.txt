@@ -1,0 +1,22 @@
+micro  log N=10.0 log k=7.0: c1 contour 0.0491654152  Marchenko-Pastur 0.0491654152  sum rules (np.float64(1.0), np.float64(1.0))
+micro  log N=10.0 log k=9.5: c1 contour 0.5099247146  Marchenko-Pastur 0.5099247146  sum rules (np.float64(0.9999999999999999), np.float64(0.9999999999999998))
+micro  log N=10.0 log k=10.5: c1 contour 0.8407237233  Marchenko-Pastur 0.8407237233  sum rules (np.float64(0.6065306597126334), np.float64(1.0000000000000007))
+micro  log N=10.0 log k=12.0: c1 contour 0.9658644545  Marchenko-Pastur 0.9658644545  sum rules (np.float64(0.1353352832366128), np.float64(0.9999999999999971))
+micro  log N=10.0 log k=15.0: c1 contour 0.9983148021  Marchenko-Pastur 0.9983148021  sum rules (np.float64(0.006737946999085476), np.float64(1.0000000000000284))
+PSSY beta=3: S_BH - S0 = 12.0926
+x= -6.0: c1 exact 0.0586 canonical(3.45) 0.0653 | S-S0 exact 6.0517  (2.52) 6.0495 | sum rules +0.0e+00 +3.3e-15
+x= -5.0: c1 exact 0.1084 canonical(3.45) 0.1222 | S-S0 exact 7.0023  (2.52) 6.9624 | sum rules +0.0e+00 +3.8e-15
+x= -4.0: c1 exact 0.1804 canonical(3.45) 0.2043 | S-S0 exact 7.9101  (2.52) 7.9472 | sum rules +2.2e-16 +1.1e-14
+x= -3.0: c1 exact 0.2731 canonical(3.45) 0.3082 | S-S0 exact 8.7543  (2.52) 8.6976 | sum rules +0.0e+00 +8.1e-14
+x= -2.5: c1 exact 0.3257 canonical(3.45) 0.3668 | S-S0 exact 9.1458  (2.52) 9.1726 | sum rules +0.0e+00 +2.8e-14
+x= -2.0: c1 exact 0.3813 canonical(3.45) 0.4271 | S-S0 exact 9.5138  (2.52) 9.4858 | sum rules +0.0e+00 +1.3e-13
+x= -1.0: c1 exact 0.4967 canonical(3.45) 0.5506 | S-S0 exact 10.1711  (2.52) 10.2596 | sum rules +0.0e+00 +1.2e-12
+x= +0.0: c1 exact 0.6099 canonical(3.45) 0.6662 | S-S0 exact 10.7159  (2.52) 10.7819 | sum rules +0.0e+00 -3.7e-12
+x= +1.0: c1 exact 0.7126 canonical(3.45) 0.7661 | S-S0 exact 11.1466  (2.52) 11.1868 | sum rules +2.2e-16 +6.6e-12
+x= +2.0: c1 exact 0.7992 canonical(3.45) 0.8462 | S-S0 exact 11.4706  (2.52) 11.5350 | sum rules +0.0e+00 +2.7e-11
+x= +2.5: c1 exact 0.8354 canonical(3.45) 0.8782 | S-S0 exact 11.5967  (2.52) 11.6637 | sum rules +0.0e+00 +7.5e-12
+x= +3.0: c1 exact 0.8670 canonical(3.45) 0.9050 | S-S0 exact 11.7019  (2.52) 11.7672 | sum rules +0.0e+00 -1.9e-11
+x= +4.0: c1 exact 0.9166 canonical(3.45) 0.9447 | S-S0 exact 11.8584  (2.52) 11.8934 | sum rules +0.0e+00 -1.1e-10
+x= +5.0: c1 exact 0.9505 canonical(3.45) 0.9700 | S-S0 exact 11.9588  (2.52) 11.9870 | sum rules -1.1e-16 -2.2e-10
+x= +6.0: c1 exact 0.9721 canonical(3.45) 0.9847 | S-S0 exact 12.0197  (2.52) 12.0396 | sum rules +0.0e+00 +1.8e-11
+x= +7.5: c1 exact 0.9894 canonical(3.45) 0.9951 | S-S0 exact 12.0658  (2.52) 12.0756 | sum rules +0.0e+00 +4.7e-10

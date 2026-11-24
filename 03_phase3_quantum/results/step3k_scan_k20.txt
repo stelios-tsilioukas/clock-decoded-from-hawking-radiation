@@ -1,0 +1,6 @@
+k1=20.0 omega=0.20 h=1.00 eps=0.050: exact -0.787502 backreacted -0.786199 probe -0.694750 | k1*rel.quantum -0.0331  |V| 0.99216  N=2800
+k1=20.0 omega=0.10 h=1.00 eps=0.050: exact -0.787752 backreacted -0.786199 probe -0.694750 | k1*rel.quantum -0.0395  |V| 0.99795  N=2800
+k1=20.0 omega=0.05 h=1.00 eps=0.050: exact -0.787878 backreacted -0.786199 probe -0.694750 | k1*rel.quantum -0.0427  |V| 0.99948  N=2800
+k1=20.0 omega=0.10 h=0.50 eps=0.050: exact -0.787862 backreacted -0.786199 probe -0.694750 | k1*rel.quantum -0.0423  |V| 0.99845  N=2800
+k1=20.0 omega=0.05 h=0.25 eps=0.050: exact -0.788062 backreacted -0.786199 probe -0.694750 | k1*rel.quantum -0.0474  |V| 0.99965  N=2800
+k1=20.0 omega=0.20 h=1.00 eps=0.025: exact -0.786889 backreacted -0.785598 probe -0.694186 | k1*rel.quantum -0.0329  |V| 0.99085  N=2800

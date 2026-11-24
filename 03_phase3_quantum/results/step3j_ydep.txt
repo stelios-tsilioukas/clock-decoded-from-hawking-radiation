@@ -1,0 +1,4 @@
+y=0.00  absorbed +0.1175-0.0002j  threading +0.1225+0.0000j  other -0.0254+0.0004j  |other| 0.0254 arg(other)/pi +0.995  arg(own)/pi -0.001
+y=0.45  absorbed +0.1110-0.0271j  threading +0.1158-0.0269j  other -0.0251+0.0003j  |other| 0.0251 arg(other)/pi +0.996  arg(own)/pi -0.076
+y=0.90  absorbed +0.0934-0.0478j  threading +0.0981-0.0477j  other -0.0241+0.0003j  |other| 0.0242 arg(other)/pi +0.996  arg(own)/pi -0.151
+y=1.35  absorbed +0.0699-0.0589j  threading +0.0742-0.0588j  other -0.0226+0.0003j  |other| 0.0226 arg(other)/pi +0.995  arg(own)/pi -0.223

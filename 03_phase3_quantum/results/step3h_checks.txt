@@ -1,0 +1,16 @@
+C=10.0 dy=-0.347 p=1: Sum T / Sum y * s^p = 1.9548814341-5.2e-16i   Step 3b: 1.9548814341
+C=10.0 dy=-0.347 p=2: Sum T / Sum y * s^p = 3.8816891058-1.4e-15i   Step 3b: 3.8816891058
+C=10.0 dy=+0.000 p=1: Sum T / Sum y * s^p = 2.3692156789+0.0e+00i   Step 3b: 2.3692156789
+C=10.0 dy=+0.000 p=2: Sum T / Sum y * s^p = 5.6870083053+0.0e+00i   Step 3b: 5.6870083053
+C=10.0 dy=-0.347 3e ratio amplitude/norm: replica pieces 109.0036095979+34.6054208803j   Step 3e code 109.0036095979+34.6054208803j
+C=10.0 dy=+0.000 3e ratio amplitude/norm: replica pieces 138.6634629200+0.0000000000j   Step 3e code 138.6634629200+0.0000000000j
+C=10.0 omega=0 p=1: C_deep/C_phys - 1 = 0.0e+00   C_dec(lam0=0)/C_phys - 1 = 1.8e-15   c1 = 1.000000000000
+C=10.0 omega=0 p=2: C_deep/C_phys - 1 = 0.0e+00   C_dec(lam0=0)/C_phys - 1 = 8.1e-16   c1 = 1.000000000000
+C=2.0 dy=-0.347 p=1: Sum T / Sum y * s^p = 1.7955461961+2.9e-16i   Step 3b: 1.7955461961
+C=2.0 dy=-0.347 p=2: Sum T / Sum y * s^p = 3.4841776913+1.1e-15i   Step 3b: 3.4841776913
+C=2.0 dy=+0.000 p=1: Sum T / Sum y * s^p = 2.2049310551+0.0e+00i   Step 3b: 2.2049310551
+C=2.0 dy=+0.000 p=2: Sum T / Sum y * s^p = 5.1883779073+0.0e+00i   Step 3b: 5.1883779073
+C=2.0 dy=-0.347 3e ratio amplitude/norm: replica pieces 11.1575406811+3.2289800294j   Step 3e code 11.1575406811+3.2289800294j
+C=2.0 dy=+0.000 3e ratio amplitude/norm: replica pieces 14.2907873290+0.0000000000j   Step 3e code 14.2907873290+0.0000000000j
+C=2.0 omega=0 p=1: C_deep/C_phys - 1 = 0.0e+00   C_dec(lam0=0)/C_phys - 1 = 7.8e-16   c1 = 1.000000000000
+C=2.0 omega=0 p=2: C_deep/C_phys - 1 = 0.0e+00   C_dec(lam0=0)/C_phys - 1 = 2.4e-17   c1 = 1.000000000000

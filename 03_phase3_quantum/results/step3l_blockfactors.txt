@@ -1,0 +1,24 @@
+
+== thread k=inf: own/overlap* agent 0.98598-0.02939j  ours(threading) 0.98941-0.01102j  ratio 0.99674-0.01861j
+   alpha weight share      [0.9249 0.0847 0.0026 0.     0.    ]
+   ours d(alpha)=sqrt(p0/p1) [1.0088 0.7576 0.5742 0.4367 0.3304]
+   agent Dbar(alpha)         [1.0147-0.0115j 0.6358-0.0255j 0.2721-0.025j  0.0337-0.0049j 0.0002-0.j    ]
+   agent D(alpha,gamma)/Dbar spread (max|.-1| over gamma with weight>1e-3): [0.15465118230621475, 0.4932246278425393, 1.2297719122303328, 1.9188058371597978, 1.8597649876405482]
+
+== thread k=20000: own/overlap* agent 0.98488-0.02946j  ours(threading) 0.98941-0.01102j  ratio 0.99563-0.01869j
+   alpha weight share      [0.9249 0.0847 0.0026 0.     0.    ]
+   ours d(alpha)=sqrt(p0/p1) [1.0088 0.7576 0.5742 0.4367 0.3304]
+   agent Dbar(alpha)         [1.0138-0.0115j 0.6323-0.0253j 0.2674-0.0245j 0.0327-0.0047j 0.0002-0.j    ]
+   agent D(alpha,gamma)/Dbar spread (max|.-1| over gamma with weight>1e-3): [0.15452086843051893, 0.49199424468579245, 1.2269734865211919, 1.9158851305624804, 1.857410903206643]
+
+== thread2 k=inf: own/overlap* agent 0.96039-0.03089j  ours(threading) 0.97011-0.02443j  ratio 0.99015-0.00690j
+   alpha weight share      [0.8465 0.1722 0.0051 0.0001 0.    ]
+   ours d(alpha)=sqrt(p0/p1) [1.0167 0.724  0.5156 0.3672 0.2615]
+   agent Dbar(alpha)         [1.0175-0.0004j 0.6602-0.0013j 0.2915-0.0016j 0.0242-0.0002j 0.0001-0.j    ]
+   agent D(alpha,gamma)/Dbar spread (max|.-1| over gamma with weight>1e-3): [0.06882983828305736, 0.26227828011133375, 0.5001395218766473, 0.630139602344663, 0.6443825841345753]
+
+== thread2 k=20000: own/overlap* agent 0.95944-0.03111j  ours(threading) 0.97011-0.02443j  ratio 0.98919-0.00716j
+   alpha weight share      [0.8465 0.1722 0.0051 0.0001 0.    ]
+   ours d(alpha)=sqrt(p0/p1) [1.0167 0.724  0.5156 0.3672 0.2615]
+   agent Dbar(alpha)         [1.017 -0.0004j 0.657 -0.0013j 0.2861-0.0015j 0.0234-0.0002j 0.0001-0.j    ]
+   agent D(alpha,gamma)/Dbar spread (max|.-1| over gamma with weight>1e-3): [0.06874278513480164, 0.2618527396596266, 0.499540177441428, 0.6296663921447953, 0.6439534819796923]

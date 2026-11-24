@@ -1,0 +1,142 @@
+
+C = 10.0, tau_s = 0.75 pi (island clock)
+  interval dy=-2 -> dy=-1: classical +0.23291  physical (one-sided) +0.21826
+     x =   -12: decoded +0.16083 (canonical +0.16116)   decoded/physical - 1 = -0.26311   C x (decoded - physical) = -0.5743
+     x =    -8: decoded +0.17527 (canonical +0.17585)   decoded/physical - 1 = -0.19697   C x (decoded - physical) = -0.4299
+     x =    -4: decoded +0.18934 (canonical +0.19010)   decoded/physical - 1 = -0.13248   C x (decoded - physical) = -0.2892
+     x =     0: decoded +0.20211 (canonical +0.20301)   decoded/physical - 1 = -0.07398   C x (decoded - physical) = -0.1615
+     x =     4: decoded +0.21237 (canonical +0.21314)   decoded/physical - 1 = -0.02699   C x (decoded - physical) = -0.0589
+     x =     8: decoded +0.21899 (canonical +0.21950)   decoded/physical - 1 = +0.00335   C x (decoded - physical) = +0.0073
+     x =    12: decoded +0.22166 (canonical +0.22178)   decoded/physical - 1 = +0.01558   C x (decoded - physical) = +0.0340
+     x =    20: decoded +0.22006 (canonical +0.21986)   decoded/physical - 1 = +0.00826   C x (decoded - physical) = +0.0180
+     x =    30: decoded +0.21834 (canonical +0.21831)   decoded/physical - 1 = +0.00036   C x (decoded - physical) = +0.0008
+     x =   inf: decoded +0.21823 (canonical +0.21823)   decoded/physical - 1 = -0.00013   C x (decoded - physical) = -0.0003
+  interval dy=-1 -> dy=+0: classical +0.37825  physical (one-sided) +0.35954
+     x =   -12: decoded +0.23730 (canonical +0.23769)   decoded/physical - 1 = -0.33999   C x (decoded - physical) = -1.2224
+     x =    -8: decoded +0.25490 (canonical +0.25563)   decoded/physical - 1 = -0.29104   C x (decoded - physical) = -1.0464
+     x =    -4: decoded +0.27353 (canonical +0.27457)   decoded/physical - 1 = -0.23922   C x (decoded - physical) = -0.8601
+     x =     0: decoded +0.29264 (canonical +0.29408)   decoded/physical - 1 = -0.18609   C x (decoded - physical) = -0.6691
+     x =     4: decoded +0.31126 (canonical +0.31283)   decoded/physical - 1 = -0.13429   C x (decoded - physical) = -0.4828
+     x =     8: decoded +0.32806 (canonical +0.32971)   decoded/physical - 1 = -0.08757   C x (decoded - physical) = -0.3149
+     x =    12: decoded +0.34156 (canonical +0.34286)   decoded/physical - 1 = -0.05003   C x (decoded - physical) = -0.1799
+     x =    20: decoded +0.35606 (canonical +0.35659)   decoded/physical - 1 = -0.00969   C x (decoded - physical) = -0.0349
+     x =    30: decoded +0.35938 (canonical +0.35941)   decoded/physical - 1 = -0.00047   C x (decoded - physical) = -0.0017
+     x =   inf: decoded +0.35951 (canonical +0.35951)   decoded/physical - 1 = -0.00011   C x (decoded - physical) = -0.0004
+  interval dy=+0 -> dy=+1: classical +0.37825  physical (one-sided) +0.35954
+     x =   -12: decoded +0.23730 (canonical +0.23769)   decoded/physical - 1 = -0.33999   C x (decoded - physical) = -1.2224
+     x =    -8: decoded +0.25490 (canonical +0.25563)   decoded/physical - 1 = -0.29104   C x (decoded - physical) = -1.0464
+     x =    -4: decoded +0.27353 (canonical +0.27457)   decoded/physical - 1 = -0.23922   C x (decoded - physical) = -0.8601
+     x =     0: decoded +0.29264 (canonical +0.29408)   decoded/physical - 1 = -0.18609   C x (decoded - physical) = -0.6691
+     x =     4: decoded +0.31126 (canonical +0.31283)   decoded/physical - 1 = -0.13429   C x (decoded - physical) = -0.4828
+     x =     8: decoded +0.32806 (canonical +0.32971)   decoded/physical - 1 = -0.08757   C x (decoded - physical) = -0.3149
+     x =    12: decoded +0.34156 (canonical +0.34286)   decoded/physical - 1 = -0.05003   C x (decoded - physical) = -0.1799
+     x =    20: decoded +0.35606 (canonical +0.35659)   decoded/physical - 1 = -0.00969   C x (decoded - physical) = -0.0349
+     x =    30: decoded +0.35938 (canonical +0.35941)   decoded/physical - 1 = -0.00047   C x (decoded - physical) = -0.0017
+     x =   inf: decoded +0.35951 (canonical +0.35951)   decoded/physical - 1 = -0.00011   C x (decoded - physical) = -0.0004
+  interval dy=-2 -> dy=+1: classical +0.98942  physical (one-sided) +0.93735
+     x =   -12: decoded +0.63544 (canonical +0.63654)   decoded/physical - 1 = -0.32209   C x (decoded - physical) = -3.0191
+     x =    -8: decoded +0.68507 (canonical +0.68710)   decoded/physical - 1 = -0.26914   C x (decoded - physical) = -2.5227
+     x =    -4: decoded +0.73641 (canonical +0.73924)   decoded/physical - 1 = -0.21437   C x (decoded - physical) = -2.0094
+     x =     0: decoded +0.78739 (canonical +0.79117)   decoded/physical - 1 = -0.15998   C x (decoded - physical) = -1.4996
+     x =     4: decoded +0.83489 (canonical +0.83879)   decoded/physical - 1 = -0.10930   C x (decoded - physical) = -1.0245
+     x =     8: decoded +0.87511 (canonical +0.87892)   decoded/physical - 1 = -0.06640   C x (decoded - physical) = -0.6224
+     x =    12: decoded +0.90477 (canonical +0.90750)   decoded/physical - 1 = -0.03475   C x (decoded - physical) = -0.3257
+     x =    20: decoded +0.93218 (canonical +0.93305)   decoded/physical - 1 = -0.00551   C x (decoded - physical) = -0.0517
+     x =    30: decoded +0.93709 (canonical +0.93713)   decoded/physical - 1 = -0.00027   C x (decoded - physical) = -0.0026
+     x =   inf: decoded +0.93724 (canonical +0.93724)   decoded/physical - 1 = -0.00011   C x (decoded - physical) = -0.0010
+
+convention check: max |interval(rephased) - interval| = 6.7e-16  (single readings shift by alpha/omega = 3.500)
+
+C = 2.0, tau_s = 0.75 pi (island clock)
+  interval dy=-2 -> dy=-1: classical +0.23291  physical (one-sided) +0.17340
+     x =   -12: decoded +0.09849 (canonical +0.09849)   decoded/physical - 1 = -0.43201   C x (decoded - physical) = -0.1498
+     x =    -8: decoded +0.10030 (canonical +0.10040)   decoded/physical - 1 = -0.42157   C x (decoded - physical) = -0.1462
+     x =    -4: decoded +0.11458 (canonical +0.11601)   decoded/physical - 1 = -0.33921   C x (decoded - physical) = -0.1176
+     x =     0: decoded +0.14108 (canonical +0.14420)   decoded/physical - 1 = -0.18635   C x (decoded - physical) = -0.0646
+     x =     4: decoded +0.16788 (canonical +0.17122)   decoded/physical - 1 = -0.03178   C x (decoded - physical) = -0.0110
+     x =     8: decoded +0.17968 (canonical +0.18015)   decoded/physical - 1 = +0.03622   C x (decoded - physical) = +0.0126
+     x =    12: decoded +0.17693 (canonical +0.17604)   decoded/physical - 1 = +0.02041   C x (decoded - physical) = +0.0071
+     x =    20: decoded +0.17323 (canonical +0.17318)   decoded/physical - 1 = -0.00098   C x (decoded - physical) = -0.0003
+     x =    30: decoded +0.17314 (canonical +0.17314)   decoded/physical - 1 = -0.00149   C x (decoded - physical) = -0.0005
+     x =   inf: decoded +0.17314 (canonical +0.17314)   decoded/physical - 1 = -0.00150   C x (decoded - physical) = -0.0005
+  interval dy=-1 -> dy=+0: classical +0.37825  physical (one-sided) +0.29870
+     x =   -12: decoded +0.16279 (canonical +0.16279)   decoded/physical - 1 = -0.45501   C x (decoded - physical) = -0.2718
+     x =    -8: decoded +0.16467 (canonical +0.16477)   decoded/physical - 1 = -0.44873   C x (decoded - physical) = -0.2681
+     x =    -4: decoded +0.17982 (canonical +0.18136)   decoded/physical - 1 = -0.39799   C x (decoded - physical) = -0.2378
+     x =     0: decoded +0.20959 (canonical +0.21322)   decoded/physical - 1 = -0.29832   C x (decoded - physical) = -0.1782
+     x =     4: decoded +0.24577 (canonical +0.25110)   decoded/physical - 1 = -0.17721   C x (decoded - physical) = -0.1059
+     x =     8: decoded +0.27671 (canonical +0.28114)   decoded/physical - 1 = -0.07361   C x (decoded - physical) = -0.0440
+     x =    12: decoded +0.29292 (canonical +0.29476)   decoded/physical - 1 = -0.01934   C x (decoded - physical) = -0.0116
+     x =    20: decoded +0.29833 (canonical +0.29837)   decoded/physical - 1 = -0.00126   C x (decoded - physical) = -0.0008
+     x =    30: decoded +0.29842 (canonical +0.29842)   decoded/physical - 1 = -0.00094   C x (decoded - physical) = -0.0006
+     x =   inf: decoded +0.29842 (canonical +0.29842)   decoded/physical - 1 = -0.00094   C x (decoded - physical) = -0.0006
+  interval dy=+0 -> dy=+1: classical +0.37825  physical (one-sided) +0.29870
+     x =   -12: decoded +0.16279 (canonical +0.16279)   decoded/physical - 1 = -0.45501   C x (decoded - physical) = -0.2718
+     x =    -8: decoded +0.16467 (canonical +0.16477)   decoded/physical - 1 = -0.44873   C x (decoded - physical) = -0.2681
+     x =    -4: decoded +0.17982 (canonical +0.18136)   decoded/physical - 1 = -0.39799   C x (decoded - physical) = -0.2378
+     x =     0: decoded +0.20959 (canonical +0.21322)   decoded/physical - 1 = -0.29832   C x (decoded - physical) = -0.1782
+     x =     4: decoded +0.24577 (canonical +0.25110)   decoded/physical - 1 = -0.17721   C x (decoded - physical) = -0.1059
+     x =     8: decoded +0.27671 (canonical +0.28114)   decoded/physical - 1 = -0.07361   C x (decoded - physical) = -0.0440
+     x =    12: decoded +0.29292 (canonical +0.29476)   decoded/physical - 1 = -0.01934   C x (decoded - physical) = -0.0116
+     x =    20: decoded +0.29833 (canonical +0.29837)   decoded/physical - 1 = -0.00126   C x (decoded - physical) = -0.0008
+     x =    30: decoded +0.29842 (canonical +0.29842)   decoded/physical - 1 = -0.00094   C x (decoded - physical) = -0.0006
+     x =   inf: decoded +0.29842 (canonical +0.29842)   decoded/physical - 1 = -0.00094   C x (decoded - physical) = -0.0006
+  interval dy=-2 -> dy=+1: classical +0.98942  physical (one-sided) +0.77080
+     x =   -12: decoded +0.42407 (canonical +0.42407)   decoded/physical - 1 = -0.44983   C x (decoded - physical) = -0.6935
+     x =    -8: decoded +0.42963 (canonical +0.42993)   decoded/physical - 1 = -0.44262   C x (decoded - physical) = -0.6823
+     x =    -4: decoded +0.47422 (canonical +0.47874)   decoded/physical - 1 = -0.38477   C x (decoded - physical) = -0.5932
+     x =     0: decoded +0.56027 (canonical +0.57063)   decoded/physical - 1 = -0.27313   C x (decoded - physical) = -0.4211
+     x =     4: decoded +0.65943 (canonical +0.67342)   decoded/physical - 1 = -0.14449   C x (decoded - physical) = -0.2227
+     x =     8: decoded +0.73310 (canonical +0.74243)   decoded/physical - 1 = -0.04890   C x (decoded - physical) = -0.0754
+     x =    12: decoded +0.76278 (canonical +0.76556)   decoded/physical - 1 = -0.01040   C x (decoded - physical) = -0.0160
+     x =    20: decoded +0.76988 (canonical +0.76993)   decoded/physical - 1 = -0.00120   C x (decoded - physical) = -0.0018
+     x =    30: decoded +0.76998 (canonical +0.76998)   decoded/physical - 1 = -0.00107   C x (decoded - physical) = -0.0016
+     x =   inf: decoded +0.76998 (canonical +0.76998)   decoded/physical - 1 = -0.00107   C x (decoded - physical) = -0.0016
+
+C = 20.0, tau_s = 0.75 pi (island clock)
+  interval dy=-2 -> dy=-1: classical +0.23291  physical (one-sided) +0.22536
+     x =   -12: decoded +0.19308 (canonical +0.19329)   decoded/physical - 1 = -0.14326   C x (decoded - physical) = -0.6457
+     x =    -8: decoded +0.20075 (canonical +0.20101)   decoded/physical - 1 = -0.10922   C x (decoded - physical) = -0.4923
+     x =    -4: decoded +0.20780 (canonical +0.20814)   decoded/physical - 1 = -0.07793   C x (decoded - physical) = -0.3513
+     x =     0: decoded +0.21400 (canonical +0.21434)   decoded/physical - 1 = -0.05043   C x (decoded - physical) = -0.2273
+     x =     4: decoded +0.21911 (canonical +0.21941)   decoded/physical - 1 = -0.02776   C x (decoded - physical) = -0.1251
+     x =     8: decoded +0.22292 (canonical +0.22316)   decoded/physical - 1 = -0.01083   C x (decoded - physical) = -0.0488
+     x =    12: decoded +0.22537 (canonical +0.22554)   decoded/physical - 1 = +0.00003   C x (decoded - physical) = +0.0002
+     x =    20: decoded +0.22681 (canonical +0.22680)   decoded/physical - 1 = +0.00641   C x (decoded - physical) = +0.0289
+     x =    30: decoded +0.22591 (canonical +0.22586)   decoded/physical - 1 = +0.00241   C x (decoded - physical) = +0.0109
+     x =   inf: decoded +0.22535 (canonical +0.22535)   decoded/physical - 1 = -0.00005   C x (decoded - physical) = -0.0002
+  interval dy=-1 -> dy=+0: classical +0.37825  physical (one-sided) +0.36871
+     x =   -12: decoded +0.28273 (canonical +0.28306)   decoded/physical - 1 = -0.23318   C x (decoded - physical) = -1.7195
+     x =    -8: decoded +0.29458 (canonical +0.29500)   decoded/physical - 1 = -0.20106   C x (decoded - physical) = -1.4826
+     x =    -4: decoded +0.30646 (canonical +0.30705)   decoded/physical - 1 = -0.16884   C x (decoded - physical) = -1.2451
+     x =     0: decoded +0.31813 (canonical +0.31881)   decoded/physical - 1 = -0.13717   C x (decoded - physical) = -1.0116
+     x =     4: decoded +0.32928 (canonical +0.33000)   decoded/physical - 1 = -0.10694   C x (decoded - physical) = -0.7886
+     x =     8: decoded +0.33951 (canonical +0.34022)   decoded/physical - 1 = -0.07919   C x (decoded - physical) = -0.5840
+     x =    12: decoded +0.34841 (canonical +0.34915)   decoded/physical - 1 = -0.05507   C x (decoded - physical) = -0.4061
+     x =    20: decoded +0.36098 (canonical +0.36143)   decoded/physical - 1 = -0.02096   C x (decoded - physical) = -0.1546
+     x =    30: decoded +0.36739 (canonical +0.36753)   decoded/physical - 1 = -0.00358   C x (decoded - physical) = -0.0264
+     x =   inf: decoded +0.36869 (canonical +0.36869)   decoded/physical - 1 = -0.00005   C x (decoded - physical) = -0.0003
+  interval dy=+0 -> dy=+1: classical +0.37825  physical (one-sided) +0.36871
+     x =   -12: decoded +0.28273 (canonical +0.28306)   decoded/physical - 1 = -0.23318   C x (decoded - physical) = -1.7195
+     x =    -8: decoded +0.29458 (canonical +0.29500)   decoded/physical - 1 = -0.20106   C x (decoded - physical) = -1.4826
+     x =    -4: decoded +0.30646 (canonical +0.30705)   decoded/physical - 1 = -0.16884   C x (decoded - physical) = -1.2451
+     x =     0: decoded +0.31813 (canonical +0.31881)   decoded/physical - 1 = -0.13717   C x (decoded - physical) = -1.0116
+     x =     4: decoded +0.32928 (canonical +0.33000)   decoded/physical - 1 = -0.10694   C x (decoded - physical) = -0.7886
+     x =     8: decoded +0.33951 (canonical +0.34022)   decoded/physical - 1 = -0.07919   C x (decoded - physical) = -0.5840
+     x =    12: decoded +0.34841 (canonical +0.34915)   decoded/physical - 1 = -0.05507   C x (decoded - physical) = -0.4061
+     x =    20: decoded +0.36098 (canonical +0.36143)   decoded/physical - 1 = -0.02096   C x (decoded - physical) = -0.1546
+     x =    30: decoded +0.36739 (canonical +0.36753)   decoded/physical - 1 = -0.00358   C x (decoded - physical) = -0.0264
+     x =   inf: decoded +0.36869 (canonical +0.36869)   decoded/physical - 1 = -0.00005   C x (decoded - physical) = -0.0003
+  interval dy=-2 -> dy=+1: classical +0.98942  physical (one-sided) +0.96279
+     x =   -12: decoded +0.75855 (canonical +0.75940)   decoded/physical - 1 = -0.21213   C x (decoded - physical) = -4.0848
+     x =    -8: decoded +0.78991 (canonical +0.79102)   decoded/physical - 1 = -0.17956   C x (decoded - physical) = -3.4576
+     x =    -4: decoded +0.82072 (canonical +0.82223)   decoded/physical - 1 = -0.14756   C x (decoded - physical) = -2.8414
+     x =     0: decoded +0.85027 (canonical +0.85196)   decoded/physical - 1 = -0.11687   C x (decoded - physical) = -2.2504
+     x =     4: decoded +0.87767 (canonical +0.87941)   decoded/physical - 1 = -0.08840   C x (decoded - physical) = -1.7023
+     x =     8: decoded +0.90195 (canonical +0.90359)   decoded/physical - 1 = -0.06319   C x (decoded - physical) = -1.2167
+     x =    12: decoded +0.92219 (canonical +0.92384)   decoded/physical - 1 = -0.04217   C x (decoded - physical) = -0.8120
+     x =    20: decoded +0.94878 (canonical +0.94966)   decoded/physical - 1 = -0.01455   C x (decoded - physical) = -0.2802
+     x =    30: decoded +0.96069 (canonical +0.96092)   decoded/physical - 1 = -0.00218   C x (decoded - physical) = -0.0419
+     x =   inf: decoded +0.96274 (canonical +0.96274)   decoded/physical - 1 = -0.00005   C x (decoded - physical) = -0.0009
+
+convention check: max |interval(rephased) - interval| = 1.3e-15  (single readings shift by alpha/omega = 3.500)

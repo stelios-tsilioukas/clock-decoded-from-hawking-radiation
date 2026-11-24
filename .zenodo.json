@@ -1,0 +1,10 @@
+{
+  "title": "clock-decoded-from-hawking-radiation: code for \"What does a clock decoded from Hawking radiation read?\"",
+  "description": "Numerical code and result files for the paper \"What does a clock decoded from Hawking radiation read? Infalling proper time in quantum Jackiw-Teitelboim gravity\" and the accompanying Letter. Exact Schwarzian disk amplitudes, one-sided and decoded readings of an infalling clock, replica (PSSY) decoding, the radiating Hayden-Preskill model, and random-matrix non-perturbative corrections.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Tsilioukas, Stylianos A.", "affiliation": "University of Thessaly; National Observatory of Athens"}
+  ],
+  "keywords": ["Jackiw-Teitelboim gravity", "Hayden-Preskill protocol", "black hole interior", "Hawking radiation", "quantum gravity"]
+}

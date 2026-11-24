@@ -1,0 +1,16 @@
+import json, numpy as np, matplotlib; matplotlib.use('Agg'); import matplotlib.pyplot as plt
+R=[r for r in json.load(open('02_phase2_jt/results/step2_qes_scan.json')) if r['found']]
+x=np.array([np.log(r['kappa']/(6*r['k'])) for r in R]); D2=np.array([2*r['kappa']*r['Delta'] for r in R])
+kD=np.array([r['kappaDelta'] for r in R]); eta=np.array([r['eta'] for r in R]); etaAH=np.array([r['eta_AH'] for r in R])
+fig,ax=plt.subplots(1,2,figsize=(10,4))
+ax[0].plot(x,D2,'o',label='numerical QES')
+ee=(1-2/kD)/(3+2/kD); ax[0].plot(x,x+np.log(12*(1+ee)),'x',ms=9,label=r'$\log[12(1+\eta)(S-S_0)/c]$')
+ax[0].plot(np.sort(x),np.sort(x),'k:',lw=1,label=r'$\log[(S-S_0)/c]$')
+ax[0].set_xlabel(r'$\log[(S-S_0)/c]$'); ax[0].set_ylabel(r'$2\kappa\,\Delta$  (ingoing lag)'); ax[0].legend(fontsize=8)
+s=np.linspace(1.5,6,100); ax[1].plot(s,(1-2/s)/(3+2/s),'C0-',label=r'$\eta_{\rm QES}$ analytic')
+ax[1].plot(kD,eta,'C0o',label=r'$\eta_{\rm QES}$ numerical')
+ax[1].plot(s,-(1+(1-2/s)/(3+2/s))/4,'C3-',label=r'$\eta_{\rm AH}=-(1+\eta)/4$')
+ax[1].plot(kD,etaAH,'C3s',label=r'$\eta_{\rm AH}$ numerical'); ax[1].axhline(0,color='k',lw=.8)
+ax[1].text(4.6,0.02,'event horizon',fontsize=8); ax[1].set_xlabel(r'$\kappa\Delta$'); ax[1].set_ylabel(r'$\eta=(b-t_\infty)/G(y_B)$')
+ax[1].legend(fontsize=8); plt.tight_layout()
+plt.savefig('02_phase2_jt/results/fig_step2_qes.png',dpi=150)

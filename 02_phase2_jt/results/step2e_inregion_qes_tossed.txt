@@ -1,0 +1,12 @@
+# output of code/step2e_inregion_qes_tossed.py 1e-4 0.25  (k=1e-4, tau_s=pi/4, kappa=0.7788, Y_S-Y_H=-0.343, Delta~6.643)
+# only lambda=0.003 has smooth in-region extrema (two, a lunch-like pair); lambda=0.01, 0.03: none (see step2e_inregion_roots_vs_mu.txt)
+lam=0.0030 yB-YH-Delta=-1.0: in-QES Y-YH=-3.755 bh=+4.153e-03 p=-1.01 S_in-S_out=-8.906e-03 | tau_end=0.01408 (8lam/3 tan ts=0.00807)
+lam=0.0030 yB-YH-Delta=-1.0: in-QES Y-YH=-3.096 bh=+2.598e-03 p=-1.00 S_in-S_out=-8.910e-03 | tau_end=0.00883
+lam=0.0030 yB-YH-Delta= 0.0: in-QES Y-YH=-3.746 bh=+4.205e-03 p=-1.01 S_in-S_out=-8.656e-03 | tau_end=0.01425
+lam=0.0030 yB-YH-Delta= 0.0: in-QES Y-YH=-3.063 bh=+2.588e-03 p=-1.00 S_in-S_out=-8.660e-03 | tau_end=0.00880
+lam=0.0030 yB-YH-Delta= 1.0: in-QES Y-YH=-3.714 bh=+4.149e-03 p=-1.01 S_in-S_out=-8.404e-03 | tau_end=0.01407
+lam=0.0030 yB-YH-Delta= 1.0: in-QES Y-YH=-3.075 bh=+2.633e-03 p=-1.00 S_in-S_out=-8.408e-03 | tau_end=0.00895
+lam=0.0030 yB-YH-Delta= 2.0: in-QES Y-YH=-3.679 bh=+4.077e-03 p=-1.01 S_in-S_out=-8.154e-03 | tau_end=0.01382
+lam=0.0030 yB-YH-Delta= 2.0: in-QES Y-YH=-3.096 bh=+2.686e-03 p=-1.00 S_in-S_out=-8.157e-03 | tau_end=0.00913
+# all these extrema sit at Y < Y_S (ingoing label earlier than the release): outside J+(S), i.e. in the region whose dilaton
+# depends on the clock's history before release (here: geodesic extended to the past = "tossed" clock).

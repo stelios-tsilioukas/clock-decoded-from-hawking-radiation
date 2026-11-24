@@ -1,0 +1,8 @@
+C=10.0 Delta=2.0 omega=0.4 h=1.0 dy=-0.347: split - four-region at eps=1e-1..1e-4: +4.53e-02-4.58e-02i  +2.80e-03-4.19e-03i  +2.63e-04-4.15e-04i  +2.61e-05-4.15e-05i
+C=10.0 Delta=2.0 omega=0.4 h=1.0 dy=+0.000: split - four-region at eps=1e-1..1e-4: +9.48e-02+0.00e+00i  +6.99e-03+0.00e+00i  +6.75e-04+0.00e+00i  +6.72e-05+0.00e+00i
+C=10.0 Delta=0.6 omega=0.2 h=0.5 dy=-0.347: split - four-region at eps=1e-1..1e-4: +6.18e-02-2.24e-02i  +5.51e-03-2.04e-03i  +5.45e-04-2.03e-04i  +5.44e-05-2.02e-05i
+C=10.0 Delta=0.6 omega=0.2 h=0.5 dy=+0.000: split - four-region at eps=1e-1..1e-4: +8.67e-02+0.00e+00i  +7.62e-03+0.00e+00i  +7.52e-04+0.00e+00i  +7.51e-05+0.00e+00i
+C=2.0 Delta=2.0 omega=0.4 h=1.0 dy=-0.347: split - four-region at eps=1e-1..1e-4: +3.36e-02-5.08e-02i  +1.39e-03-4.72e-03i  +1.18e-04-4.69e-04i  +1.16e-05-4.69e-05i
+C=2.0 Delta=2.0 omega=0.4 h=1.0 dy=+0.000: split - four-region at eps=1e-1..1e-4: +8.17e-02+0.00e+00i  +5.41e-03+0.00e+00i  +5.14e-04+0.00e+00i  +5.12e-05+0.00e+00i
+C=2.0 Delta=0.6 omega=0.2 h=0.5 dy=-0.347: split - four-region at eps=1e-1..1e-4: +6.01e-02-2.32e-02i  +5.29e-03-2.13e-03i  +5.22e-04-2.11e-04i  +5.22e-05-2.11e-05i
+C=2.0 Delta=0.6 omega=0.2 h=0.5 dy=+0.000: split - four-region at eps=1e-1..1e-4: +8.48e-02+0.00e+00i  +7.38e-03+0.00e+00i  +7.28e-04+0.00e+00i  +7.27e-05+0.00e+00i

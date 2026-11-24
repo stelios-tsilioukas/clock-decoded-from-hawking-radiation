@@ -1,0 +1,5 @@
+label -3.00: k1*(dec - phys) full -0.2218 | gap shared by ket & bra -0.0353
+label -2.00: k1*(dec - phys) full -0.0847 | gap shared by ket & bra -0.0532
+label -1.00: k1*(dec - phys) full -0.0184 | gap shared by ket & bra -0.0844
+label -0.35: k1*(dec - phys) full -0.0036 | gap shared by ket & bra -0.0588
+label +0.31: k1*(dec - phys) full +0.0031 | gap shared by ket & bra +0.0533

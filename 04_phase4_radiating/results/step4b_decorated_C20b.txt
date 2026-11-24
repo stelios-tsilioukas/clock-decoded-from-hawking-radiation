@@ -1,0 +1,5 @@
+   [x=0: exact resolvent failed, canonical filter used]
+   [x=12: exact resolvent failed, canonical filter used]
+   [x=20: exact resolvent failed, canonical filter used]
+C=  20 De=2.00 eps_e=0.0125 horizon  : phys -0.86636 (|V| 0.99177) | dec deep -0.86661 (|V| 1.00000) C*(dec-phys) -0.0049 | 3h(no emission) deep -0.86880 | x=0: -0.8617 x=12: -0.8622 x=20: -0.8626  [92s]
+C=  20 De=2.00 eps_e=0.0125 0.9 inner: phys +0.79089 (|V| 0.99185) | dec deep +0.79111 (|V| 1.00000) C*(dec-phys) +0.0043 | 3h(no emission) deep +0.79317 | x=0: +0.7865 x=12: +0.7870 x=20: +0.7873  [179s]

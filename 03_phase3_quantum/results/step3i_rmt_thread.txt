@@ -1,0 +1,20 @@
+regime 'thread': tc = 8.0, tb = 0.05;  two-replica threading/cap weight ratio = 11.6
+sample 0 done (140s)
+sample 1 done (264s)
+sample 2 done (388s)
+
+L = 900, d e^S = 2L = 1800;  eps = 0.05  (rho_10 is O(eps); values below are divided by eps)
+     k x=log k-S |            RMT rho10/eps     +- | planar exact (threading) |            canonical |       V-col strawman |       brane strawman | rho00 RMT / planar
+        vertex-free Phi' = e^(-iyH)Psi_1:  RMT rho10 +5.5224e-01+1.5347e-04i (+-2.4e-03)   planar threading +4.6758e-01+1.9064e-04i   [physical <Phi'|Psi_1>: RMT +9.9218e-01+2.3366e-02i planar +9.9217e-01+2.3410e-02i]
+    48     -0.41 |  +5.2486e-02-3.2371e-02i 1.7e-02 |  +6.0444e-02-3.1656e-02i | +4.4214e-02-2.3174e-02i | +3.2224e-02+1.0307e-03i | +6.7273e-03-1.6021e-03i | 0.7850 / 0.5852 (canon 0.4291)
+        vertex-free Phi' = e^(-iyH)Psi_1:  RMT rho10 +8.7780e-01+7.9957e-03i (+-2.1e-04)   planar threading +7.5039e-01+8.2220e-03i   [physical <Phi'|Psi_1>: RMT +9.9221e-01+2.3295e-02i planar +9.9217e-01+2.3410e-02i]
+   300     +1.43 |  +7.3281e-02-5.0031e-02i 1.1e-02 |  +1.0002e-01-4.9831e-02i | +1.0472e-01-5.2513e-02i | +7.3253e-02-1.2966e-02i | +2.6608e-02-7.9645e-03i | 0.9420 / 0.9348 (canon 0.9819)
+        vertex-free Phi' = e^(-iyH)Psi_1:  RMT rho10 +9.2428e-01+1.2321e-02i (+-8.5e-04)   planar threading +7.9313e-01+1.3205e-02i   [physical <Phi'|Psi_1>: RMT +9.9217e-01+2.3405e-02i planar +9.9217e-01+2.3410e-02i]
+  1600     +3.10 |  +7.5821e-02-5.2277e-02i 4.4e-03 |  +1.0749e-01-5.2057e-02i | +1.0914e-01-5.2555e-02i | +9.2074e-02-2.9742e-02i | +5.7110e-02-2.1950e-02i | 0.9656 / 0.9881 (canon 1.0000)
+        vertex-free Phi' = e^(-iyH)Psi_1:  RMT rho10 +9.3233e-01+1.3008e-02i (+-1.0e-03)   planar threading +8.0079e-01+1.4054e-02i   [physical <Phi'|Psi_1>: RMT +9.9220e-01+2.3311e-02i planar +9.9217e-01+2.3410e-02i]
+  8000     +4.71 |  +7.6307e-02-5.2698e-02i 2.5e-03 |  +1.0881e-01-5.2456e-02i | +1.0914e-01-5.2555e-02i | +9.5393e-02-3.3608e-02i | +6.7870e-02-2.8191e-02i | 0.9697 / 0.9976 (canon 1.0000)
+        vertex-free Phi' = e^(-iyH)Psi_1:  RMT rho10 +9.3369e-01+1.3145e-02i (+-9.0e-04)   planar threading +8.0193e-01+1.4181e-02i   [physical <Phi'|Psi_1>: RMT +9.9219e-01+2.3355e-02i planar +9.9217e-01+2.3410e-02i]
+ 20000     +5.63 |  +7.6497e-02-5.2799e-02i 2.6e-03 |  +1.0901e-01-5.2515e-02i | +1.0914e-01-5.2555e-02i | +9.5888e-02-3.4180e-02i | +6.9449e-02-2.9102e-02i | 0.9705 / 0.9990 (canon 1.0000)
+
+one-sided <Phi|Psi1>/eps: RMT +1.1121e-01-5.1921e-02i  planar +1.1089e-01-5.1883e-02i
+deep post-Page planar rho10/eps (threading) = +1.0914e-01-5.2555e-02i

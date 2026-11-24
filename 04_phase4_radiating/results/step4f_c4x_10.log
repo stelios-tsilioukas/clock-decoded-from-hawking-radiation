@@ -1,0 +1,14 @@
+k1=10 mu=10 (mu/k1=1): bare C=9.4858 ts=0.74501 kappa1=1.05421  [298s]
+         y_H-1 -> horizon: classical +1.12695 one-sided +1.13119 decoded +1.13371 | k1*quantum +0.0376 k1*decoder +0.02234 (D +0.0280, gap -0.0057) ratio +0.594
+         horizon -> phi=0: classical +0.78609 one-sided +0.78881 decoded +0.78913 | k1*quantum +0.0346 k1*decoder +0.00403 (D +0.0321, gap -0.0281) ratio +0.117
+       phi=0 -> 0.9 inner: classical +0.71556 one-sided +0.71802 decoded +0.71830 | k1*quantum +0.0344 k1*decoder +0.00391 (D +0.0318, gap -0.0279) ratio +0.114
+     horizon -> 0.9 inner: classical +1.50166 one-sided +1.50684 decoded +1.50743 | k1*quantum +0.0345 k1*decoder +0.00397 (D +0.0320, gap -0.0280) ratio +0.115
+       y_H-1 -> 0.9 inner: classical +2.62861 one-sided +2.63803 decoded +2.64114 | k1*quantum +0.0358 k1*decoder +0.01185 (D +0.0303, gap -0.0184) ratio +0.331
+   purity 1-|V|: y_H-1: 9.91e-03/1.6e-05  horizon: 7.94e-03/1.0e-05  phi=0: 7.55e-03/9.2e-06  0.9 inner: 7.88e-03/1.0e-05
+k1=10 mu=5 (mu/k1=0.5): bare C=11.2362 ts=0.88249 kappa1=0.88998  [312s]
+         y_H-1 -> horizon: classical +1.12708 one-sided +1.13054 decoded +1.13289 | k1*quantum +0.0306 k1*decoder +0.02083 (D +0.0217, gap -0.0009) ratio +0.680
+         horizon -> phi=0: classical +0.78589 one-sided +0.78824 decoded +0.78853 | k1*quantum +0.0299 k1*decoder +0.00372 (D +0.0344, gap -0.0307) ratio +0.124
+       phi=0 -> 0.9 inner: classical +0.71537 one-sided +0.71750 decoded +0.71775 | k1*quantum +0.0297 k1*decoder +0.00360 (D +0.0343, gap -0.0307) ratio +0.121
+     horizon -> 0.9 inner: classical +1.50127 one-sided +1.50574 decoded +1.50629 | k1*quantum +0.0298 k1*decoder +0.00366 (D +0.0344, gap -0.0307) ratio +0.123
+       y_H-1 -> 0.9 inner: classical +2.62835 one-sided +2.63628 decoded +2.63917 | k1*quantum +0.0302 k1*decoder +0.01103 (D +0.0289, gap -0.0179) ratio +0.366
+   purity 1-|V|: y_H-1: 1.01e-02/1.2e-05  horizon: 8.30e-03/7.8e-06  phi=0: 7.92e-03/7.1e-06  0.9 inner: 8.23e-03/7.6e-06

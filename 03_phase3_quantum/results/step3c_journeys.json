@@ -1,0 +1,62 @@
+{
+ "1.0": {
+  "S_minus_S0": 6.283185307179586,
+  "R0": 2.029666984390107,
+  "R0_over_cl": 0.8407155920352832,
+  "tail_exponent": 3.0821034494417074,
+  "T_in_S_to_horizon": 0.6041503828971633,
+  "T_in_horizon_to_phi0": 0.6538789580583164,
+  "T_out_S_to_horizon_disk": 0.39376950825400103,
+  "classical_S_to_horizon": 0.7853981633974483,
+  "classical_horizon_to_phi0": 0.7853981633974483,
+  "np_rel_correction_rate_interior_coeff_e2S0": [
+   0.0010898738557328942,
+   0.0013585454555761543
+  ],
+  "np_dT_interior_coeff_e2S0": 0.0007669824584077898,
+  "np_dT_S_to_horizon_coeff_e2S0": 0.0011881434534085598,
+  "ramp_rate_slope_coeff_e2S0": 0.0003099989202863186,
+  "plateau_rate_coeff_eS0": 0.0017023072698262324,
+  "x_dip_S0_10": null
+ },
+ "2.0": {
+  "S_minus_S0": 12.566370614359172,
+  "R0": 2.2049310551051304,
+  "R0_over_cl": 0.9133123471221631,
+  "tail_exponent": 3.3133078988232536,
+  "T_in_S_to_horizon": 0.683022502789851,
+  "T_in_horizon_to_phi0": 0.7135341241092301,
+  "T_out_S_to_horizon_disk": 0.5177067171892668,
+  "classical_S_to_horizon": 0.7853981633974483,
+  "classical_horizon_to_phi0": 0.7853981633974483,
+  "np_rel_correction_rate_interior_coeff_e2S0": [
+   4.101234311122554e-06,
+   5.036041810926665e-06
+  ],
+  "np_dT_interior_coeff_e2S0": 3.134477803588248e-06,
+  "np_dT_S_to_horizon_coeff_e2S0": 4.842803295321561e-06,
+  "ramp_rate_slope_coeff_e2S0": 7.07117933789338e-07,
+  "plateau_rate_coeff_eS0": 1.4072262479998796e-05,
+  "x_dip_S0_10": null
+ },
+ "4.0": {
+  "S_minus_S0": 25.132741228718345,
+  "R0": 2.3047848014247894,
+  "R0_over_cl": 0.9546731231015283,
+  "tail_exponent": 4.218536031665783,
+  "T_in_S_to_horizon": 0.7307134647372051,
+  "T_in_horizon_to_phi0": 0.7477413516701822,
+  "T_out_S_to_horizon_disk": 0.6194078540104692,
+  "classical_S_to_horizon": 0.7853981633974483,
+  "classical_horizon_to_phi0": 0.7853981633974483,
+  "np_rel_correction_rate_interior_coeff_e2S0": [
+   6.88664595365593e-10,
+   8.386580548871231e-10
+  ],
+  "np_dT_interior_coeff_e2S0": 5.50113101330675e-10,
+  "np_dT_S_to_horizon_coeff_e2S0": 8.49196791888884e-10,
+  "ramp_rate_slope_coeff_e2S0": 6.747257294764852e-11,
+  "plateau_rate_coeff_eS0": 5.404646933750243e-09,
+  "x_dip_S0_10": null
+ }
+}
